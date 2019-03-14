@@ -2,7 +2,7 @@
 
 An easy to crop images to different scales. Based on the awesome [TOCropViewController](https://github.com/TimOliver/TOCropViewController) library. Currently iOS only (!)
 
-<img src="./example.png" height="400" alt="Example Screenshot" />
+<img src="./example.png" height="600" alt="Example Screenshot" />
 
 ## Requirements
 
