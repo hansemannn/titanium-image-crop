@@ -38,12 +38,13 @@ class TiImagecropModule: TiModule {
 
   @objc(showCropDialog:)
   func showCropDialog(arguments: Array<Any>?) {
-    guard let params = arguments?.first as? [String: Any] else { return }
-    guard let image = params["image"] else {
+    // Validate basic usage
+    guard let params = arguments?.first as? [String: Any], let image = params["image"] else {
       debugPrint("[ERROR] No valid image provided")
       return
     }
-    
+
+    // List proxy properties
     let aspectRatio = params["aspectRatio"]
     let doneButtonTitle = params["doneButtonTitle"] ?? NSLocalizedString("done", comment: "done")
     let cancelButtonTitle = params["cancelButtonTitle"] ?? NSLocalizedString("cancel", comment: "done")
@@ -54,6 +55,7 @@ class TiImagecropModule: TiModule {
     
     guard let cropViewController = cropViewController else { return }
     
+    // Apply general config
     cropViewController.delegate = self
     cropViewController.doneButtonTitle = doneButtonTitle as? String
     cropViewController.cancelButtonTitle = cancelButtonTitle as? String
@@ -74,17 +76,10 @@ class TiImagecropModule: TiModule {
     } else {
       cropViewController.aspectRatioPreset = .presetSquare
     }
-    
-    let tapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(self._handleSingleButtonTap))
-    cropViewController.toolbar.doneIconButton.addGestureRecognizer(tapGestureRecognizer)
-    
+  
+    // Request top-most VC
     guard let controller = TiApp.controller(), let topPresentedController = controller.topPresentedController() else { return }
     topPresentedController.present(cropViewController, animated: true, completion: nil)
-  }
-  
-  @objc private func _handleSingleButtonTap() {
-    guard let cropViewController = cropViewController else { return }
-    cropViewController.dismiss(animated: true, completion: nil)
   }
 }
 
