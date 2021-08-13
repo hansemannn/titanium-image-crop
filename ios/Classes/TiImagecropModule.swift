@@ -36,6 +36,8 @@ class TiImagecropModule: TiModule {
     return "ti.imagecrop"
   }
 
+  // MARK: Public APIs
+
   @objc(showCropDialog:)
   func showCropDialog(arguments: Array<Any>?) {
     // Validate basic usage
@@ -94,12 +96,22 @@ extension TiImagecropModule : CropViewControllerDelegate {
 
     self.fireEvent("done", with: ["image": blob, "cancel": false])
 
-    cropViewController.dismiss(animated: true, completion: nil)
+    self.cropViewController?.dismiss(animated: true, completion: {
+      self.fireEvent("close")
+
+      self.cropViewController?.delegate = nil
+      self.cropViewController = nil
+    })
   }
 
   func cropViewController(_ cropViewController: CropViewController, didFinishCancelled cancelled: Bool) {
     self.fireEvent("done", with: ["cancel": true])
 
-    cropViewController.dismiss(animated: true, completion: nil)
+    self.cropViewController?.dismiss(animated: true, completion: {
+      self.fireEvent("close")
+
+      self.cropViewController?.delegate = nil
+      self.cropViewController = nil
+    })
   }
 }

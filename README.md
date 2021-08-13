@@ -6,7 +6,7 @@ An easy to crop images to different scales. Based on the awesome [TOCropViewCont
 
 ## Requirements
 
-- [x] Titanium SDK 8.0.0+ (this module  is 100 % Swift based)
+- [x] Titanium SDK 9.2.0+ (this module  is 100 % Swift based)
 
 ## Methods
 
@@ -31,26 +31,35 @@ An easy to crop images to different scales. Based on the awesome [TOCropViewCont
 
 - `done`
   - Attributes: `image` (Ti.Blob, if finished cropping), `cancel` (`true` if cancelled, `false` if completetd)
+- `close`
 
 ## Example
 
 ```js
-const ImageCrop = require('ti.imagecrop')
+import ImageCrop from 'ti.imagecrop';
 
-ImageCrop.addEventListener('done', function (event) {
-  if (event.cancel) return;
+ImageCrop.addEventListener('done', event => {
+  if (event.cancel) {
+    return;
+  }
+
   win.add(Ti.UI.createImageView({ height: 400, image: event.image }));
 });
 
-var win = Ti.UI.createWindow({
+ImageCrop.addEventListener('close', event => {
+  // Open other windows after the close has been triggered
+  // to prevent transition glitches
+});
+
+const win = Ti.UI.createWindow({
   backgroundColor: '#fff'
 });
 
-var btn = Ti.UI.createButton({
+const btn = Ti.UI.createButton({
   title: 'Show crop dialog'
 });
 
-btn.addEventListener('click', function () {
+btn.addEventListener('click', () => {
   ImageCrop.showCropDialog({
     image: 'test.jpg'
   });
