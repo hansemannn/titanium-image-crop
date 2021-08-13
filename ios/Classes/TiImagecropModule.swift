@@ -88,7 +88,10 @@ class TiImagecropModule: TiModule {
 extension TiImagecropModule : CropViewControllerDelegate {
 
   func cropViewController(_ cropViewController: CropViewController, didCropToImage image: UIImage, withRect cropRect: CGRect, angle: Int) {
-    guard let blob = TiBlob()._init(withPageContext: self.pageContext, andImage: image) else { return }
+    guard let blob = TiBlob(image: image) else {
+      return
+    }
+
     self.fireEvent("done", with: ["image": blob, "cancel": false])
 
     cropViewController.dismiss(animated: true, completion: nil)

@@ -1,0 +1,2087 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.9)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/hans/Library/Caches/org.carthage.CarthageKit/DerivedData/12.5_12E262/TOCropViewController/2.6.0/Build/Intermediates.noindex/ArchiveIntermediates/CropViewController/IntermediateBuildFilesPath/TOCropViewControllerExample.build/Release-iphoneos/CropViewController.build/DerivedSources/CropViewController_vers.c
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController
+-[UIImage(CropRotate) hasAlpha]
+-[UIImage(CropRotate) croppedImageWithFrame:angle:circularClip:]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.10
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIImage_$_CropRotate
+__OBJC_$_CATEGORY_UIImage_$_CropRotate
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Categories/UIImage+CropRotate.m
+Objective-C/TOCropViewController/Categories/UIImage+CropRotate.m
+-[TOCropViewControllerTransitioning transitionDuration:]
+-[TOCropViewControllerTransitioning animateTransition:]
+___55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+___55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke.48
+___55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke_2
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+___55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke.49
+___55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke.57
+___55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke_2.58
+-[TOCropViewControllerTransitioning reset]
+-[TOCropViewControllerTransitioning isDismissing]
+-[TOCropViewControllerTransitioning setIsDismissing:]
+-[TOCropViewControllerTransitioning image]
+-[TOCropViewControllerTransitioning setImage:]
+-[TOCropViewControllerTransitioning fromView]
+-[TOCropViewControllerTransitioning setFromView:]
+-[TOCropViewControllerTransitioning toView]
+-[TOCropViewControllerTransitioning setToView:]
+-[TOCropViewControllerTransitioning fromFrame]
+-[TOCropViewControllerTransitioning setFromFrame:]
+-[TOCropViewControllerTransitioning toFrame]
+-[TOCropViewControllerTransitioning setToFrame:]
+-[TOCropViewControllerTransitioning prepareForTransitionHandler]
+-[TOCropViewControllerTransitioning setPrepareForTransitionHandler:]
+-[TOCropViewControllerTransitioning .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_OBJC_SELECTOR_REFERENCES_.47
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+___block_descriptor_40_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.51
+___block_descriptor_40_e8_32s_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+___block_descriptor_48_e8_32s40s_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_UIViewControllerAnimatedTransitioning
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UIViewControllerAnimatedTransitioning
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIViewControllerAnimatedTransitioning
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIViewControllerAnimatedTransitioning
+__OBJC_PROTOCOL_$_UIViewControllerAnimatedTransitioning
+__OBJC_LABEL_PROTOCOL_$_UIViewControllerAnimatedTransitioning
+__OBJC_CLASS_PROTOCOLS_$_TOCropViewControllerTransitioning
+__OBJC_METACLASS_RO_$_TOCropViewControllerTransitioning
+__OBJC_$_INSTANCE_METHODS_TOCropViewControllerTransitioning
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._isDismissing
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._image
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._fromView
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._toView
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._prepareForTransitionHandler
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._fromFrame
+_OBJC_IVAR_$_TOCropViewControllerTransitioning._toFrame
+__OBJC_$_INSTANCE_VARIABLES_TOCropViewControllerTransitioning
+__OBJC_$_PROP_LIST_TOCropViewControllerTransitioning
+__OBJC_CLASS_RO_$_TOCropViewControllerTransitioning
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.m
+Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.m
+Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.h
+__55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke_2.58
+__55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke.57
+__55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke.49
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke_2
+__55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke.48
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__55-[TOCropViewControllerTransitioning animateTransition:]_block_invoke
+-[TOActivityCroppedImageProvider initWithImage:cropFrame:angle:circular:]
+-[TOActivityCroppedImageProvider activityViewControllerPlaceholderItem:]
+-[TOActivityCroppedImageProvider activityViewController:itemForActivityType:]
+-[TOActivityCroppedImageProvider item]
+-[TOActivityCroppedImageProvider image]
+-[TOActivityCroppedImageProvider setImage:]
+-[TOActivityCroppedImageProvider cropFrame]
+-[TOActivityCroppedImageProvider setCropFrame:]
+-[TOActivityCroppedImageProvider angle]
+-[TOActivityCroppedImageProvider setAngle:]
+-[TOActivityCroppedImageProvider circular]
+-[TOActivityCroppedImageProvider setCircular:]
+-[TOActivityCroppedImageProvider croppedImage]
+-[TOActivityCroppedImageProvider setCroppedImage:]
+-[TOActivityCroppedImageProvider .cxx_destruct]
+_OBJC_IVAR_$_TOActivityCroppedImageProvider._image
+_OBJC_IVAR_$_TOActivityCroppedImageProvider._cropFrame
+_OBJC_IVAR_$_TOActivityCroppedImageProvider._angle
+_OBJC_IVAR_$_TOActivityCroppedImageProvider._circular
+_OBJC_IVAR_$_TOActivityCroppedImageProvider._croppedImage
+__OBJC_METACLASS_RO_$_TOActivityCroppedImageProvider
+__OBJC_$_INSTANCE_METHODS_TOActivityCroppedImageProvider
+__OBJC_$_INSTANCE_VARIABLES_TOActivityCroppedImageProvider
+__OBJC_$_PROP_LIST_TOActivityCroppedImageProvider
+__OBJC_CLASS_RO_$_TOActivityCroppedImageProvider
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.m
+Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.m
+Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.h
+-[TOCroppedImageAttributes initWithCroppedFrame:angle:originalImageSize:]
+-[TOCroppedImageAttributes angle]
+-[TOCroppedImageAttributes setAngle:]
+-[TOCroppedImageAttributes croppedFrame]
+-[TOCroppedImageAttributes setCroppedFrame:]
+-[TOCroppedImageAttributes originalImageSize]
+-[TOCroppedImageAttributes setOriginalImageSize:]
+__OBJC_METACLASS_RO_$_TOCroppedImageAttributes
+__OBJC_$_INSTANCE_METHODS_TOCroppedImageAttributes
+_OBJC_IVAR_$_TOCroppedImageAttributes._angle
+_OBJC_IVAR_$_TOCroppedImageAttributes._originalImageSize
+_OBJC_IVAR_$_TOCroppedImageAttributes._croppedFrame
+__OBJC_$_INSTANCE_VARIABLES_TOCroppedImageAttributes
+__OBJC_$_PROP_LIST_TOCroppedImageAttributes
+__OBJC_CLASS_RO_$_TOCroppedImageAttributes
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.m
+Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.m
+Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.h
+-[TOCropOverlayView initWithFrame:]
+-[TOCropOverlayView setup]
+___26-[TOCropOverlayView setup]_block_invoke
+-[TOCropOverlayView setFrame:]
+-[TOCropOverlayView didMoveToSuperview]
+-[TOCropOverlayView layoutLines]
+-[TOCropOverlayView setGridHidden:animated:]
+___44-[TOCropOverlayView setGridHidden:animated:]_block_invoke
+-[TOCropOverlayView setDisplayHorizontalGridLines:]
+___51-[TOCropOverlayView setDisplayHorizontalGridLines:]_block_invoke
+-[TOCropOverlayView setDisplayVerticalGridLines:]
+___49-[TOCropOverlayView setDisplayVerticalGridLines:]_block_invoke
+-[TOCropOverlayView setGridHidden:]
+-[TOCropOverlayView createNewLineView]
+-[TOCropOverlayView gridHidden]
+-[TOCropOverlayView displayHorizontalGridLines]
+-[TOCropOverlayView displayVerticalGridLines]
+-[TOCropOverlayView horizontalGridLines]
+-[TOCropOverlayView setHorizontalGridLines:]
+-[TOCropOverlayView verticalGridLines]
+-[TOCropOverlayView setVerticalGridLines:]
+-[TOCropOverlayView outerLineViews]
+-[TOCropOverlayView setOuterLineViews:]
+-[TOCropOverlayView topLeftLineViews]
+-[TOCropOverlayView setTopLeftLineViews:]
+-[TOCropOverlayView bottomLeftLineViews]
+-[TOCropOverlayView setBottomLeftLineViews:]
+-[TOCropOverlayView bottomRightLineViews]
+-[TOCropOverlayView setBottomRightLineViews:]
+-[TOCropOverlayView topRightLineViews]
+-[TOCropOverlayView setTopRightLineViews:]
+-[TOCropOverlayView .cxx_destruct]
+___block_descriptor_40_e8_32s_e13_"UIView"8?0l
+_OBJC_IVAR_$_TOCropOverlayView._outerLineViews
+_OBJC_IVAR_$_TOCropOverlayView._topLeftLineViews
+_OBJC_IVAR_$_TOCropOverlayView._bottomLeftLineViews
+_OBJC_IVAR_$_TOCropOverlayView._topRightLineViews
+_OBJC_IVAR_$_TOCropOverlayView._bottomRightLineViews
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_IVAR_$_TOCropOverlayView._gridHidden
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_CLASSLIST_REFERENCES_$_.48
+___block_descriptor_41_e8_32s_e5_v8?0l
+_OBJC_IVAR_$_TOCropOverlayView._displayHorizontalGridLines
+___block_descriptor_32_e23_v32?0"UIView"8Q16^B24l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_IVAR_$_TOCropOverlayView._displayVerticalGridLines
+___block_literal_global.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_IVAR_$_TOCropOverlayView._horizontalGridLines
+_OBJC_IVAR_$_TOCropOverlayView._verticalGridLines
+__OBJC_METACLASS_RO_$_TOCropOverlayView
+__OBJC_$_INSTANCE_METHODS_TOCropOverlayView
+__OBJC_$_INSTANCE_VARIABLES_TOCropOverlayView
+__OBJC_$_PROP_LIST_TOCropOverlayView
+__OBJC_CLASS_RO_$_TOCropOverlayView
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropOverlayView.m
+Objective-C/TOCropViewController/Views/TOCropOverlayView.m
+Objective-C/TOCropViewController/Views/TOCropOverlayView.h
+__49-[TOCropOverlayView setDisplayVerticalGridLines:]_block_invoke
+__51-[TOCropOverlayView setDisplayHorizontalGridLines:]_block_invoke
+__44-[TOCropOverlayView setGridHidden:animated:]_block_invoke
+__26-[TOCropOverlayView setup]_block_invoke
+-[TOCropScrollView touchesBegan:withEvent:]
+-[TOCropScrollView touchesEnded:withEvent:]
+-[TOCropScrollView touchesCancelled:withEvent:]
+-[TOCropScrollView touchesBegan]
+-[TOCropScrollView setTouchesBegan:]
+-[TOCropScrollView touchesCancelled]
+-[TOCropScrollView setTouchesCancelled:]
+-[TOCropScrollView touchesEnded]
+-[TOCropScrollView setTouchesEnded:]
+-[TOCropScrollView .cxx_destruct]
+_OBJC_IVAR_$_TOCropScrollView._touchesBegan
+_OBJC_IVAR_$_TOCropScrollView._touchesCancelled
+_OBJC_IVAR_$_TOCropScrollView._touchesEnded
+__OBJC_METACLASS_RO_$_TOCropScrollView
+__OBJC_$_INSTANCE_METHODS_TOCropScrollView
+__OBJC_$_INSTANCE_VARIABLES_TOCropScrollView
+__OBJC_$_PROP_LIST_TOCropScrollView
+__OBJC_CLASS_RO_$_TOCropScrollView
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropScrollView.m
+Objective-C/TOCropViewController/Views/TOCropScrollView.m
+Objective-C/TOCropViewController/Views/TOCropScrollView.h
+-[TOCropToolbar initWithFrame:]
+-[TOCropToolbar setup]
+-[TOCropToolbar layoutSubviews]
+-[TOCropToolbar layoutToolbarButtons:withSameButtonSize:inContainerRect:horizontally:]
+-[TOCropToolbar buttonTapped:]
+-[TOCropToolbar clampButtonFrame]
+-[TOCropToolbar setClampButtonHidden:]
+-[TOCropToolbar setClampButtonGlowing:]
+-[TOCropToolbar setRotateCounterClockwiseButtonHidden:]
+-[TOCropToolbar resetButtonEnabled]
+-[TOCropToolbar setResetButtonEnabled:]
+-[TOCropToolbar setDoneButtonHidden:]
+-[TOCropToolbar setCancelButtonHidden:]
+-[TOCropToolbar doneButtonFrame]
+-[TOCropToolbar setShowOnlyIcons:]
+-[TOCropToolbar setCancelTextButtonTitle:]
+-[TOCropToolbar setDoneTextButtonTitle:]
+-[TOCropToolbar setCancelButtonColor:]
+-[TOCropToolbar setDoneButtonColor:]
++[TOCropToolbar doneImage]
++[TOCropToolbar cancelImage]
++[TOCropToolbar rotateCCWImage]
++[TOCropToolbar rotateCWImage]
++[TOCropToolbar resetImage]
++[TOCropToolbar clampImage]
+-[TOCropToolbar setRotateClockwiseButtonHidden:]
+-[TOCropToolbar setResetButtonHidden:]
+-[TOCropToolbar rotateButton]
+-[TOCropToolbar setStatusBarHeightInset:]
+-[TOCropToolbar visibleCancelButton]
+-[TOCropToolbar statusBarHeightInset]
+-[TOCropToolbar backgroundViewOutsets]
+-[TOCropToolbar setBackgroundViewOutsets:]
+-[TOCropToolbar doneTextButton]
+-[TOCropToolbar setDoneTextButton:]
+-[TOCropToolbar doneIconButton]
+-[TOCropToolbar setDoneIconButton:]
+-[TOCropToolbar doneTextButtonTitle]
+-[TOCropToolbar doneButtonColor]
+-[TOCropToolbar cancelTextButton]
+-[TOCropToolbar setCancelTextButton:]
+-[TOCropToolbar cancelIconButton]
+-[TOCropToolbar setCancelIconButton:]
+-[TOCropToolbar cancelTextButtonTitle]
+-[TOCropToolbar cancelButtonColor]
+-[TOCropToolbar showOnlyIcons]
+-[TOCropToolbar rotateCounterclockwiseButton]
+-[TOCropToolbar resetButton]
+-[TOCropToolbar setResetButton:]
+-[TOCropToolbar clampButton]
+-[TOCropToolbar setClampButton:]
+-[TOCropToolbar rotateClockwiseButton]
+-[TOCropToolbar cancelButtonTapped]
+-[TOCropToolbar setCancelButtonTapped:]
+-[TOCropToolbar doneButtonTapped]
+-[TOCropToolbar setDoneButtonTapped:]
+-[TOCropToolbar rotateCounterclockwiseButtonTapped]
+-[TOCropToolbar setRotateCounterclockwiseButtonTapped:]
+-[TOCropToolbar rotateClockwiseButtonTapped]
+-[TOCropToolbar setRotateClockwiseButtonTapped:]
+-[TOCropToolbar clampButtonTapped]
+-[TOCropToolbar setClampButtonTapped:]
+-[TOCropToolbar resetButtonTapped]
+-[TOCropToolbar setResetButtonTapped:]
+-[TOCropToolbar clampButtonGlowing]
+-[TOCropToolbar clampButtonHidden]
+-[TOCropToolbar rotateCounterclockwiseButtonHidden]
+-[TOCropToolbar setRotateCounterclockwiseButtonHidden:]
+-[TOCropToolbar rotateClockwiseButtonHidden]
+-[TOCropToolbar resetButtonHidden]
+-[TOCropToolbar doneButtonHidden]
+-[TOCropToolbar cancelButtonHidden]
+-[TOCropToolbar backgroundView]
+-[TOCropToolbar setBackgroundView:]
+-[TOCropToolbar setRotateButton:]
+-[TOCropToolbar reverseContentLayout]
+-[TOCropToolbar setReverseContentLayout:]
+-[TOCropToolbar .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_IVAR_$_TOCropToolbar._doneTextButton
+_OBJC_IVAR_$_TOCropToolbar._doneTextButtonTitle
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_IVAR_$_TOCropToolbar._doneIconButton
+_OBJC_CLASSLIST_REFERENCES_$_.61
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_IVAR_$_TOCropToolbar._cancelTextButton
+_OBJC_IVAR_$_TOCropToolbar._cancelTextButtonTitle
+_OBJC_IVAR_$_TOCropToolbar._cancelIconButton
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_IVAR_$_TOCropToolbar._clampButton
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_IVAR_$_TOCropToolbar._rotateCounterclockwiseButton
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_IVAR_$_TOCropToolbar._rotateClockwiseButton
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_IVAR_$_TOCropToolbar._resetButton
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_IVAR_$_TOCropToolbar._showOnlyIcons
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_CLASSLIST_REFERENCES_$_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_IVAR_$_TOCropToolbar._clampButtonHidden
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_IVAR_$_TOCropToolbar._clampButtonGlowing
+_OBJC_IVAR_$_TOCropToolbar._rotateCounterclockwiseButtonHidden
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_IVAR_$_TOCropToolbar._doneButtonHidden
+_OBJC_IVAR_$_TOCropToolbar._cancelButtonHidden
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_IVAR_$_TOCropToolbar._cancelButtonColor
+_OBJC_IVAR_$_TOCropToolbar._doneButtonColor
+_OBJC_CLASSLIST_REFERENCES_$_.168
+_OBJC_CLASSLIST_REFERENCES_$_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_CLASSLIST_REFERENCES_$_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_IVAR_$_TOCropToolbar._rotateClockwiseButtonHidden
+_OBJC_IVAR_$_TOCropToolbar._resetButtonHidden
+_OBJC_IVAR_$_TOCropToolbar._statusBarHeightInset
+_OBJC_IVAR_$_TOCropToolbar._backgroundViewOutsets
+_OBJC_IVAR_$_TOCropToolbar._cancelButtonTapped
+_OBJC_IVAR_$_TOCropToolbar._doneButtonTapped
+_OBJC_IVAR_$_TOCropToolbar._rotateCounterclockwiseButtonTapped
+_OBJC_IVAR_$_TOCropToolbar._rotateClockwiseButtonTapped
+_OBJC_IVAR_$_TOCropToolbar._clampButtonTapped
+_OBJC_IVAR_$_TOCropToolbar._resetButtonTapped
+_OBJC_IVAR_$_TOCropToolbar._backgroundView
+_OBJC_IVAR_$_TOCropToolbar._rotateButton
+_OBJC_IVAR_$_TOCropToolbar._reverseContentLayout
+__OBJC_$_CLASS_METHODS_TOCropToolbar
+__OBJC_METACLASS_RO_$_TOCropToolbar
+__OBJC_$_INSTANCE_METHODS_TOCropToolbar
+__OBJC_$_INSTANCE_VARIABLES_TOCropToolbar
+__OBJC_$_PROP_LIST_TOCropToolbar
+__OBJC_CLASS_RO_$_TOCropToolbar
+_OBJC_CLASSLIST_REFERENCES_$_.382
+_OBJC_SELECTOR_REFERENCES_.384
+_OBJC_SELECTOR_REFERENCES_.388
+_OBJC_SELECTOR_REFERENCES_.390
+_OBJC_CLASSLIST_REFERENCES_$_.391
+_OBJC_CLASSLIST_REFERENCES_$_.394
+_OBJC_SELECTOR_REFERENCES_.398
+_OBJC_SELECTOR_REFERENCES_.400
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropToolbar.m
+Objective-C/TOCropViewController/Views/TOCropToolbar.m
+Objective-C/TOCropViewController/Views/TOCropToolbar.h
+TO_CROP_VIEW_RESOURCE_BUNDLE_FOR_OBJECT
+Objective-C/TOCropViewController/Constants/TOCropViewConstants.h
+-[TOCropView initWithImage:]
+-[TOCropView initWithCroppingStyle:image:]
+-[TOCropView setup]
+___19-[TOCropView setup]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+___19-[TOCropView setup]_block_invoke.72
+-[TOCropView performInitialSetup]
+-[TOCropView layoutInitialImage]
+-[TOCropView prepareforRotation]
+-[TOCropView performRelayoutForRotation]
+-[TOCropView matchForegroundToBackground]
+-[TOCropView updateCropBoxFrameWithGesturePoint:]
+-[TOCropView resetLayoutToDefaultAnimated:]
+___43-[TOCropView resetLayoutToDefaultAnimated:]_block_invoke
+___43-[TOCropView resetLayoutToDefaultAnimated:]_block_invoke_2
+___43-[TOCropView resetLayoutToDefaultAnimated:]_block_invoke.266
+-[TOCropView toggleTranslucencyViewVisible:]
+-[TOCropView updateToImageCropFrame:]
+-[TOCropView gridPanGestureRecognized:]
+-[TOCropView longPressGestureRecognized:]
+-[TOCropView gestureRecognizerShouldBegin:]
+-[TOCropView gestureRecognizer:shouldReceiveTouch:]
+-[TOCropView startResetTimer]
+-[TOCropView timerTriggered]
+-[TOCropView cancelResetTimer]
+-[TOCropView cropEdgeForPoint:]
+-[TOCropView viewForZoomingInScrollView:]
+-[TOCropView scrollViewDidScroll:]
+-[TOCropView scrollViewWillBeginDragging:]
+-[TOCropView scrollViewWillBeginZooming:withView:]
+-[TOCropView scrollViewDidEndDecelerating:]
+-[TOCropView scrollViewDidEndZooming:withView:atScale:]
+-[TOCropView scrollViewDidZoom:]
+-[TOCropView scrollViewDidEndDragging:willDecelerate:]
+-[TOCropView setCropBoxResizeEnabled:]
+-[TOCropView setCropBoxFrame:]
+-[TOCropView setEditing:]
+-[TOCropView setSimpleRenderMode:]
+-[TOCropView cropBoxAspectRatioIsPortrait]
+-[TOCropView imageCropFrame]
+-[TOCropView setImageCropFrame:]
+-[TOCropView setCroppingViewsHidden:]
+-[TOCropView setCroppingViewsHidden:animated:]
+___46-[TOCropView setCroppingViewsHidden:animated:]_block_invoke
+-[TOCropView setBackgroundImageViewHidden:animated:]
+___52-[TOCropView setBackgroundImageViewHidden:animated:]_block_invoke
+___52-[TOCropView setBackgroundImageViewHidden:animated:]_block_invoke.325
+-[TOCropView setAlwaysShowCroppingGrid:]
+-[TOCropView setTranslucencyAlwaysHidden:]
+-[TOCropView setGridOverlayHidden:]
+-[TOCropView setGridOverlayHidden:animated:]
+___44-[TOCropView setGridOverlayHidden:animated:]_block_invoke
+-[TOCropView imageViewFrame]
+-[TOCropView setCanBeReset:]
+-[TOCropView setAngle:]
+-[TOCropView startEditing]
+-[TOCropView setEditing:resetCropBox:animated:]
+___47-[TOCropView setEditing:resetCropBox:animated:]_block_invoke
+-[TOCropView moveCroppedContentToCenterAnimated:]
+___49-[TOCropView moveCroppedContentToCenterAnimated:]_block_invoke
+___copy_helper_block_e8_32r40w
+___destroy_helper_block_e8_32r40w
+___49-[TOCropView moveCroppedContentToCenterAnimated:]_block_invoke.350
+___copy_helper_block_e8_32b
+-[TOCropView setSimpleRenderMode:animated:]
+___43-[TOCropView setSimpleRenderMode:animated:]_block_invoke
+-[TOCropView setAspectRatio:]
+-[TOCropView setAspectRatio:animated:]
+___38-[TOCropView setAspectRatio:animated:]_block_invoke
+-[TOCropView rotateImageNinetyDegreesAnimated:]
+-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]
+___57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke
+___57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke_2
+___57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke_3
+___57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke.371
+-[TOCropView captureStateForImageRotation]
+-[TOCropView checkForCanReset]
+-[TOCropView contentBounds]
+-[TOCropView imageSize]
+-[TOCropView hasAspectRatio]
+-[TOCropView image]
+-[TOCropView setImage:]
+-[TOCropView croppingStyle]
+-[TOCropView setCroppingStyle:]
+-[TOCropView gridOverlayView]
+-[TOCropView setGridOverlayView:]
+-[TOCropView foregroundContainerView]
+-[TOCropView setForegroundContainerView:]
+-[TOCropView delegate]
+-[TOCropView setDelegate:]
+-[TOCropView cropBoxResizeEnabled]
+-[TOCropView canBeReset]
+-[TOCropView cropBoxFrame]
+-[TOCropView cropRegionInsets]
+-[TOCropView setCropRegionInsets:]
+-[TOCropView simpleRenderMode]
+-[TOCropView internalLayoutDisabled]
+-[TOCropView setInternalLayoutDisabled:]
+-[TOCropView aspectRatio]
+-[TOCropView aspectRatioLockEnabled]
+-[TOCropView setAspectRatioLockEnabled:]
+-[TOCropView aspectRatioLockDimensionSwapEnabled]
+-[TOCropView setAspectRatioLockDimensionSwapEnabled:]
+-[TOCropView resetAspectRatioEnabled]
+-[TOCropView setResetAspectRatioEnabled:]
+-[TOCropView angle]
+-[TOCropView croppingViewsHidden]
+-[TOCropView gridOverlayHidden]
+-[TOCropView cropViewPadding]
+-[TOCropView setCropViewPadding:]
+-[TOCropView cropAdjustingDelay]
+-[TOCropView setCropAdjustingDelay:]
+-[TOCropView minimumAspectRatio]
+-[TOCropView setMinimumAspectRatio:]
+-[TOCropView maximumZoomScale]
+-[TOCropView setMaximumZoomScale:]
+-[TOCropView alwaysShowCroppingGrid]
+-[TOCropView translucencyAlwaysHidden]
+-[TOCropView backgroundImageView]
+-[TOCropView setBackgroundImageView:]
+-[TOCropView backgroundContainerView]
+-[TOCropView setBackgroundContainerView:]
+-[TOCropView foregroundImageView]
+-[TOCropView setForegroundImageView:]
+-[TOCropView scrollView]
+-[TOCropView setScrollView:]
+-[TOCropView overlayView]
+-[TOCropView setOverlayView:]
+-[TOCropView translucencyView]
+-[TOCropView setTranslucencyView:]
+-[TOCropView translucencyEffect]
+-[TOCropView setTranslucencyEffect:]
+-[TOCropView gridPanGestureRecognizer]
+-[TOCropView setGridPanGestureRecognizer:]
+-[TOCropView applyInitialCroppedImageFrame]
+-[TOCropView setApplyInitialCroppedImageFrame:]
+-[TOCropView tappedEdge]
+-[TOCropView setTappedEdge:]
+-[TOCropView cropOriginFrame]
+-[TOCropView setCropOriginFrame:]
+-[TOCropView panOriginPoint]
+-[TOCropView setPanOriginPoint:]
+-[TOCropView resetTimer]
+-[TOCropView setResetTimer:]
+-[TOCropView editing]
+-[TOCropView disableForgroundMatching]
+-[TOCropView setDisableForgroundMatching:]
+-[TOCropView rotationContentOffset]
+-[TOCropView setRotationContentOffset:]
+-[TOCropView rotationContentSize]
+-[TOCropView setRotationContentSize:]
+-[TOCropView rotationBoundFrame]
+-[TOCropView setRotationBoundFrame:]
+-[TOCropView cropBoxLastEditedSize]
+-[TOCropView setCropBoxLastEditedSize:]
+-[TOCropView cropBoxLastEditedAngle]
+-[TOCropView setCropBoxLastEditedAngle:]
+-[TOCropView cropBoxLastEditedZoomScale]
+-[TOCropView setCropBoxLastEditedZoomScale:]
+-[TOCropView cropBoxLastEditedMinZoomScale]
+-[TOCropView setCropBoxLastEditedMinZoomScale:]
+-[TOCropView rotateAnimationInProgress]
+-[TOCropView setRotateAnimationInProgress:]
+-[TOCropView originalCropBoxSize]
+-[TOCropView setOriginalCropBoxSize:]
+-[TOCropView originalContentOffset]
+-[TOCropView setOriginalContentOffset:]
+-[TOCropView dynamicBlurEffect]
+-[TOCropView setDynamicBlurEffect:]
+-[TOCropView restoreAngle]
+-[TOCropView setRestoreAngle:]
+-[TOCropView restoreImageCropFrame]
+-[TOCropView setRestoreImageCropFrame:]
+-[TOCropView initialSetupPerformed]
+-[TOCropView setInitialSetupPerformed:]
+-[TOCropView .cxx_destruct]
+_OBJC_IVAR_$_TOCropView._image
+_OBJC_IVAR_$_TOCropView._croppingStyle
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+___block_descriptor_40_e8_32w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_CLASSLIST_REFERENCES_$_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_CLASSLIST_REFERENCES_$_.151
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_IVAR_$_TOCropView._minimumAspectRatio
+_OBJC_IVAR_$_TOCropView._aspectRatio
+_OBJC_IVAR_$_TOCropView._angle
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_SELECTOR_REFERENCES_.257
+_OBJC_SELECTOR_REFERENCES_.259
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_CLASSLIST_REFERENCES_$_.292
+_OBJC_SELECTOR_REFERENCES_.294
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_SELECTOR_REFERENCES_.298
+_OBJC_SELECTOR_REFERENCES_.300
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_SELECTOR_REFERENCES_.310
+_OBJC_IVAR_$_TOCropView._cropBoxResizeEnabled
+_OBJC_SELECTOR_REFERENCES_.312
+_OBJC_IVAR_$_TOCropView._cropBoxFrame
+_OBJC_SELECTOR_REFERENCES_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_IVAR_$_TOCropView._croppingViewsHidden
+_OBJC_SELECTOR_REFERENCES_.322
+___block_descriptor_49_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.324
+___block_descriptor_48_e8_32s_e5_v8?0l
+___block_descriptor_41_e8_32s_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_IVAR_$_TOCropView._alwaysShowCroppingGrid
+_OBJC_IVAR_$_TOCropView._translucencyAlwaysHidden
+_OBJC_IVAR_$_TOCropView._gridOverlayHidden
+_OBJC_SELECTOR_REFERENCES_.329
+_OBJC_IVAR_$_TOCropView._canBeReset
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_SELECTOR_REFERENCES_.335
+_OBJC_SELECTOR_REFERENCES_.337
+_OBJC_SELECTOR_REFERENCES_.339
+_OBJC_IVAR_$_TOCropView._editing
+_OBJC_SELECTOR_REFERENCES_.341
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_SELECTOR_REFERENCES_.345
+_OBJC_SELECTOR_REFERENCES_.347
+_OBJC_SELECTOR_REFERENCES_.349
+___block_descriptor_88_e8_32r40w_e5_v8?0l
+___block_descriptor_40_e8_32bs_e5_v8?0l
+_OBJC_IVAR_$_TOCropView._simpleRenderMode
+_OBJC_SELECTOR_REFERENCES_.352
+_OBJC_SELECTOR_REFERENCES_.354
+___block_descriptor_89_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.356
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_SELECTOR_REFERENCES_.360
+_OBJC_SELECTOR_REFERENCES_.362
+_OBJC_SELECTOR_REFERENCES_.364
+_OBJC_SELECTOR_REFERENCES_.366
+_OBJC_SELECTOR_REFERENCES_.368
+_OBJC_SELECTOR_REFERENCES_.370
+_OBJC_SELECTOR_REFERENCES_.373
+_OBJC_SELECTOR_REFERENCES_.375
+___block_descriptor_49_e8_32s40s_e8_v12?0B8l
+_OBJC_SELECTOR_REFERENCES_.377
+_OBJC_SELECTOR_REFERENCES_.379
+_OBJC_SELECTOR_REFERENCES_.381
+_OBJC_IVAR_$_TOCropView._gridOverlayView
+_OBJC_IVAR_$_TOCropView._foregroundContainerView
+_OBJC_IVAR_$_TOCropView._delegate
+_OBJC_IVAR_$_TOCropView._cropRegionInsets
+_OBJC_IVAR_$_TOCropView._internalLayoutDisabled
+_OBJC_IVAR_$_TOCropView._aspectRatioLockEnabled
+_OBJC_IVAR_$_TOCropView._aspectRatioLockDimensionSwapEnabled
+_OBJC_IVAR_$_TOCropView._resetAspectRatioEnabled
+_OBJC_IVAR_$_TOCropView._cropViewPadding
+_OBJC_IVAR_$_TOCropView._cropAdjustingDelay
+_OBJC_IVAR_$_TOCropView._maximumZoomScale
+_OBJC_IVAR_$_TOCropView._backgroundImageView
+_OBJC_IVAR_$_TOCropView._backgroundContainerView
+_OBJC_IVAR_$_TOCropView._foregroundImageView
+_OBJC_IVAR_$_TOCropView._scrollView
+_OBJC_IVAR_$_TOCropView._overlayView
+_OBJC_IVAR_$_TOCropView._translucencyView
+_OBJC_IVAR_$_TOCropView._translucencyEffect
+_OBJC_IVAR_$_TOCropView._gridPanGestureRecognizer
+_OBJC_IVAR_$_TOCropView._applyInitialCroppedImageFrame
+_OBJC_IVAR_$_TOCropView._tappedEdge
+_OBJC_IVAR_$_TOCropView._cropOriginFrame
+_OBJC_IVAR_$_TOCropView._panOriginPoint
+_OBJC_IVAR_$_TOCropView._resetTimer
+_OBJC_IVAR_$_TOCropView._disableForgroundMatching
+_OBJC_IVAR_$_TOCropView._rotationContentOffset
+_OBJC_IVAR_$_TOCropView._rotationContentSize
+_OBJC_IVAR_$_TOCropView._rotationBoundFrame
+_OBJC_IVAR_$_TOCropView._cropBoxLastEditedSize
+_OBJC_IVAR_$_TOCropView._cropBoxLastEditedAngle
+_OBJC_IVAR_$_TOCropView._cropBoxLastEditedZoomScale
+_OBJC_IVAR_$_TOCropView._cropBoxLastEditedMinZoomScale
+_OBJC_IVAR_$_TOCropView._rotateAnimationInProgress
+_OBJC_IVAR_$_TOCropView._originalCropBoxSize
+_OBJC_IVAR_$_TOCropView._originalContentOffset
+_OBJC_IVAR_$_TOCropView._dynamicBlurEffect
+_OBJC_IVAR_$_TOCropView._restoreAngle
+_OBJC_IVAR_$_TOCropView._restoreImageCropFrame
+_OBJC_IVAR_$_TOCropView._initialSetupPerformed
+__OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+__OBJC_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_REFS_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIGestureRecognizerDelegate
+__OBJC_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_LABEL_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_CLASS_PROTOCOLS_$_TOCropView
+__OBJC_METACLASS_RO_$_TOCropView
+__OBJC_$_INSTANCE_METHODS_TOCropView
+__OBJC_$_INSTANCE_VARIABLES_TOCropView
+__OBJC_$_PROP_LIST_TOCropView
+__OBJC_CLASS_RO_$_TOCropView
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropView.m
+Objective-C/TOCropViewController/Views/TOCropView.m
+Objective-C/TOCropViewController/Views/TOCropView.h
+__57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke.371
+__57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke_3
+__57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke_2
+__57-[TOCropView rotateImageNinetyDegreesAnimated:clockwise:]_block_invoke
+__38-[TOCropView setAspectRatio:animated:]_block_invoke
+__43-[TOCropView setSimpleRenderMode:animated:]_block_invoke
+__copy_helper_block_e8_32b
+__49-[TOCropView moveCroppedContentToCenterAnimated:]_block_invoke.350
+__destroy_helper_block_e8_32r40w
+__copy_helper_block_e8_32r40w
+__49-[TOCropView moveCroppedContentToCenterAnimated:]_block_invoke
+__47-[TOCropView setEditing:resetCropBox:animated:]_block_invoke
+__44-[TOCropView setGridOverlayHidden:animated:]_block_invoke
+__52-[TOCropView setBackgroundImageViewHidden:animated:]_block_invoke.325
+__52-[TOCropView setBackgroundImageViewHidden:animated:]_block_invoke
+__46-[TOCropView setCroppingViewsHidden:animated:]_block_invoke
+__43-[TOCropView resetLayoutToDefaultAnimated:]_block_invoke.266
+__43-[TOCropView resetLayoutToDefaultAnimated:]_block_invoke_2
+__43-[TOCropView resetLayoutToDefaultAnimated:]_block_invoke
+__19-[TOCropView setup]_block_invoke.72
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__19-[TOCropView setup]_block_invoke
+-[TOCropViewController initWithCroppingStyle:image:]
+-[TOCropViewController initWithImage:]
+-[TOCropViewController viewDidLoad]
+___35-[TOCropViewController viewDidLoad]_block_invoke
+___35-[TOCropViewController viewDidLoad]_block_invoke.49
+___35-[TOCropViewController viewDidLoad]_block_invoke_2
+___35-[TOCropViewController viewDidLoad]_block_invoke_3
+___35-[TOCropViewController viewDidLoad]_block_invoke_4
+___35-[TOCropViewController viewDidLoad]_block_invoke_5
+-[TOCropViewController viewWillAppear:]
+-[TOCropViewController viewDidAppear:]
+___38-[TOCropViewController viewDidAppear:]_block_invoke
+-[TOCropViewController viewWillDisappear:]
+___42-[TOCropViewController viewWillDisappear:]_block_invoke
+-[TOCropViewController viewDidDisappear:]
+-[TOCropViewController preferredStatusBarStyle]
+-[TOCropViewController prefersStatusBarHidden]
+-[TOCropViewController preferredScreenEdgesDeferringSystemGestures]
+-[TOCropViewController frameForToolbarWithVerticalLayout:]
+-[TOCropViewController frameForCropViewWithVerticalLayout:]
+-[TOCropViewController frameForTitleLabelWithSize:verticalLayout:]
+-[TOCropViewController adjustCropViewInsets]
+-[TOCropViewController adjustToolbarInsets]
+-[TOCropViewController viewSafeAreaInsetsDidChange]
+-[TOCropViewController viewDidLayoutSubviews]
+___45-[TOCropViewController viewDidLayoutSubviews]_block_invoke
+-[TOCropViewController _willRotateToInterfaceOrientation:duration:]
+-[TOCropViewController _willAnimateRotationToInterfaceOrientation:duration:]
+___76-[TOCropViewController _willAnimateRotationToInterfaceOrientation:duration:]_block_invoke
+-[TOCropViewController _didRotateFromInterfaceOrientation:]
+-[TOCropViewController viewWillTransitionToSize:withTransitionCoordinator:]
+___75-[TOCropViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke
+___75-[TOCropViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke.220
+-[TOCropViewController resetCropViewLayout]
+-[TOCropViewController showAspectRatioDialog]
+_TO_CROP_VIEW_RESOURCE_BUNDLE_FOR_OBJECT
+___45-[TOCropViewController showAspectRatioDialog]_block_invoke
+-[TOCropViewController setAspectRatioPreset:animated:]
+-[TOCropViewController rotateCropViewClockwise]
+-[TOCropViewController rotateCropViewCounterclockwise]
+-[TOCropViewController cropViewDidBecomeResettable:]
+-[TOCropViewController cropViewDidBecomeNonResettable:]
+-[TOCropViewController presentAnimatedFromParentViewController:fromView:fromFrame:setup:completion:]
+-[TOCropViewController presentAnimatedFromParentViewController:fromImage:fromView:fromFrame:angle:toImageFrame:setup:completion:]
+___129-[TOCropViewController presentAnimatedFromParentViewController:fromImage:fromView:fromFrame:angle:toImageFrame:setup:completion:]_block_invoke
+___copy_helper_block_e8_32b40w
+___destroy_helper_block_e8_32s40w
+-[TOCropViewController dismissAnimatedFromParentViewController:toView:toFrame:setup:completion:]
+-[TOCropViewController dismissAnimatedFromParentViewController:withCroppedImage:toView:toFrame:setup:completion:]
+___113-[TOCropViewController dismissAnimatedFromParentViewController:withCroppedImage:toView:toFrame:setup:completion:]_block_invoke
+-[TOCropViewController animationControllerForPresentedController:presentingController:sourceController:]
+___104-[TOCropViewController animationControllerForPresentedController:presentingController:sourceController:]_block_invoke
+-[TOCropViewController animationControllerForDismissedController:]
+___66-[TOCropViewController animationControllerForDismissedController:]_block_invoke
+-[TOCropViewController cancelButtonTapped]
+___42-[TOCropViewController cancelButtonTapped]_block_invoke
+-[TOCropViewController dismissCropViewController]
+-[TOCropViewController doneButtonTapped]
+___40-[TOCropViewController doneButtonTapped]_block_invoke
+___copy_helper_block_e8_32s40w
+___40-[TOCropViewController doneButtonTapped]_block_invoke.442
+___40-[TOCropViewController doneButtonTapped]_block_invoke.443
+-[TOCropViewController commitCurrentCrop]
+-[TOCropViewController setTitle:]
+-[TOCropViewController setDoneButtonTitle:]
+-[TOCropViewController setCancelButtonTitle:]
+-[TOCropViewController setShowOnlyIcons:]
+-[TOCropViewController setDoneButtonColor:]
+-[TOCropViewController setCancelButtonColor:]
+-[TOCropViewController cropView]
+-[TOCropViewController toolbar]
+-[TOCropViewController titleLabel]
+-[TOCropViewController setAspectRatioLockEnabled:]
+-[TOCropViewController setAspectRatioLockDimensionSwapEnabled:]
+-[TOCropViewController aspectRatioLockEnabled]
+-[TOCropViewController setRotateButtonsHidden:]
+-[TOCropViewController setResetButtonHidden:]
+-[TOCropViewController rotateButtonsHidden]
+-[TOCropViewController setRotateClockwiseButtonHidden:]
+-[TOCropViewController rotateClockwiseButtonHidden]
+-[TOCropViewController setAspectRatioPickerButtonHidden:]
+-[TOCropViewController aspectRatioPickerButtonHidden]
+-[TOCropViewController setDoneButtonHidden:]
+-[TOCropViewController doneButtonHidden]
+-[TOCropViewController setCancelButtonHidden:]
+-[TOCropViewController cancelButtonHidden]
+-[TOCropViewController setResetAspectRatioEnabled:]
+-[TOCropViewController setCustomAspectRatio:]
+-[TOCropViewController resetAspectRatioEnabled]
+-[TOCropViewController setAngle:]
+-[TOCropViewController angle]
+-[TOCropViewController setImageCropFrame:]
+-[TOCropViewController imageCropFrame]
+-[TOCropViewController verticalLayout]
+-[TOCropViewController overrideStatusBar]
+-[TOCropViewController statusBarHidden]
+-[TOCropViewController statusBarHeight]
+-[TOCropViewController statusBarSafeInsets]
+-[TOCropViewController setMinimumAspectRatio:]
+-[TOCropViewController minimumAspectRatio]
+-[TOCropViewController image]
+-[TOCropViewController setImage:]
+-[TOCropViewController delegate]
+-[TOCropViewController setDelegate:]
+-[TOCropViewController showActivitySheetOnDone]
+-[TOCropViewController setShowActivitySheetOnDone:]
+-[TOCropViewController croppingStyle]
+-[TOCropViewController setCroppingStyle:]
+-[TOCropViewController aspectRatioPreset]
+-[TOCropViewController setAspectRatioPreset:]
+-[TOCropViewController customAspectRatio]
+-[TOCropViewController customAspectRatioName]
+-[TOCropViewController setCustomAspectRatioName:]
+-[TOCropViewController doneButtonTitle]
+-[TOCropViewController cancelButtonTitle]
+-[TOCropViewController showOnlyIcons]
+-[TOCropViewController doneButtonColor]
+-[TOCropViewController cancelButtonColor]
+-[TOCropViewController showCancelConfirmationDialog]
+-[TOCropViewController setShowCancelConfirmationDialog:]
+-[TOCropViewController aspectRatioLockDimensionSwapEnabled]
+-[TOCropViewController toolbarPosition]
+-[TOCropViewController setToolbarPosition:]
+-[TOCropViewController hidesNavigationBar]
+-[TOCropViewController setHidesNavigationBar:]
+-[TOCropViewController resetButtonHidden]
+-[TOCropViewController activityItems]
+-[TOCropViewController setActivityItems:]
+-[TOCropViewController applicationActivities]
+-[TOCropViewController setApplicationActivities:]
+-[TOCropViewController excludedActivityTypes]
+-[TOCropViewController setExcludedActivityTypes:]
+-[TOCropViewController allowedAspectRatios]
+-[TOCropViewController setAllowedAspectRatios:]
+-[TOCropViewController onDidFinishCancelled]
+-[TOCropViewController setOnDidFinishCancelled:]
+-[TOCropViewController onDidCropImageToRect]
+-[TOCropViewController setOnDidCropImageToRect:]
+-[TOCropViewController onDidCropToRect]
+-[TOCropViewController setOnDidCropToRect:]
+-[TOCropViewController onDidCropToCircleImage]
+-[TOCropViewController setOnDidCropToCircleImage:]
+-[TOCropViewController setToolbar:]
+-[TOCropViewController setCropView:]
+-[TOCropViewController toolbarSnapshotView]
+-[TOCropViewController setToolbarSnapshotView:]
+-[TOCropViewController setTitleLabel:]
+-[TOCropViewController prepareForTransitionHandler]
+-[TOCropViewController setPrepareForTransitionHandler:]
+-[TOCropViewController transitionController]
+-[TOCropViewController setTransitionController:]
+-[TOCropViewController inTransition]
+-[TOCropViewController setInTransition:]
+-[TOCropViewController navigationBarHidden]
+-[TOCropViewController setNavigationBarHidden:]
+-[TOCropViewController toolbarHidden]
+-[TOCropViewController setToolbarHidden:]
+-[TOCropViewController firstTime]
+-[TOCropViewController setFirstTime:]
+-[TOCropViewController .cxx_destruct]
+_OBJC_IVAR_$_TOCropViewController._image
+_OBJC_IVAR_$_TOCropViewController._croppingStyle
+_OBJC_IVAR_$_TOCropViewController._transitionController
+_OBJC_IVAR_$_TOCropViewController._aspectRatioPreset
+_OBJC_IVAR_$_TOCropViewController._toolbarPosition
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_CLASSLIST_REFERENCES_$_.106
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+___block_descriptor_56_e8_32s40s_e56_v16?0"<UIViewControllerTransitionCoordinatorContext>"8l
+_OBJC_SELECTOR_REFERENCES_.222
+___block_descriptor_48_e8_32s_e56_v16?0"<UIViewControllerTransitionCoordinatorContext>"8l
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_CLASSLIST_REFERENCES_$_.262
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_CLASSLIST_REFERENCES_$_.277
+_OBJC_CLASSLIST_REFERENCES_$_.286
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_CLASSLIST_REFERENCES_$_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_CLASSLIST_REFERENCES_$_.298
+___block_descriptor_56_e8_32s40s_e23_v16?0"UIAlertAction"8l
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_SELECTOR_REFERENCES_.309
+_OBJC_SELECTOR_REFERENCES_.311
+_OBJC_SELECTOR_REFERENCES_.313
+_OBJC_SELECTOR_REFERENCES_.315
+_OBJC_SELECTOR_REFERENCES_.317
+_OBJC_SELECTOR_REFERENCES_.319
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_SELECTOR_REFERENCES_.325
+___block_descriptor_80_e8_32bs40w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.351
+_OBJC_SELECTOR_REFERENCES_.353
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+_OBJC_SELECTOR_REFERENCES_.363
+_OBJC_SELECTOR_REFERENCES_.365
+_OBJC_SELECTOR_REFERENCES_.367
+_OBJC_SELECTOR_REFERENCES_.369
+_OBJC_SELECTOR_REFERENCES_.371
+___block_descriptor_40_e8_32w_e23_v16?0"UIAlertAction"8l
+_OBJC_SELECTOR_REFERENCES_.383
+_OBJC_SELECTOR_REFERENCES_.385
+_OBJC_SELECTOR_REFERENCES_.387
+_OBJC_SELECTOR_REFERENCES_.389
+_OBJC_SELECTOR_REFERENCES_.391
+_OBJC_SELECTOR_REFERENCES_.393
+_OBJC_SELECTOR_REFERENCES_.395
+_OBJC_SELECTOR_REFERENCES_.397
+_OBJC_SELECTOR_REFERENCES_.399
+_OBJC_CLASSLIST_REFERENCES_$_.400
+_OBJC_SELECTOR_REFERENCES_.402
+_OBJC_CLASSLIST_REFERENCES_$_.403
+_OBJC_SELECTOR_REFERENCES_.405
+_OBJC_SELECTOR_REFERENCES_.407
+_OBJC_SELECTOR_REFERENCES_.409
+_OBJC_SELECTOR_REFERENCES_.411
+_OBJC_SELECTOR_REFERENCES_.413
+_OBJC_CLASSLIST_REFERENCES_$_.414
+_OBJC_SELECTOR_REFERENCES_.416
+_OBJC_SELECTOR_REFERENCES_.418
+_OBJC_SELECTOR_REFERENCES_.420
+_OBJC_SELECTOR_REFERENCES_.422
+_OBJC_SELECTOR_REFERENCES_.424
+_OBJC_SELECTOR_REFERENCES_.426
+___block_descriptor_48_e8_32s40w_e45_v36?0"NSString"8B16"NSArray"20"NSError"28l
+_OBJC_SELECTOR_REFERENCES_.429
+_OBJC_SELECTOR_REFERENCES_.431
+_OBJC_SELECTOR_REFERENCES_.433
+_OBJC_SELECTOR_REFERENCES_.435
+_OBJC_SELECTOR_REFERENCES_.437
+_OBJC_SELECTOR_REFERENCES_.439
+_OBJC_SELECTOR_REFERENCES_.441
+___block_descriptor_90_e8_32s40s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.445
+_OBJC_IVAR_$_TOCropViewController._titleLabel
+_OBJC_IVAR_$_TOCropViewController._cropView
+_OBJC_SELECTOR_REFERENCES_.447
+_OBJC_SELECTOR_REFERENCES_.449
+_OBJC_SELECTOR_REFERENCES_.451
+_OBJC_SELECTOR_REFERENCES_.453
+_OBJC_SELECTOR_REFERENCES_.455
+_OBJC_SELECTOR_REFERENCES_.457
+_OBJC_SELECTOR_REFERENCES_.459
+_OBJC_CLASSLIST_REFERENCES_$_.460
+_OBJC_SELECTOR_REFERENCES_.462
+_OBJC_IVAR_$_TOCropViewController._toolbar
+_OBJC_CLASSLIST_REFERENCES_$_.463
+_OBJC_SELECTOR_REFERENCES_.465
+_OBJC_CLASSLIST_REFERENCES_$_.466
+_OBJC_CLASSLIST_REFERENCES_$_.467
+_OBJC_SELECTOR_REFERENCES_.469
+_OBJC_SELECTOR_REFERENCES_.471
+_OBJC_CLASSLIST_REFERENCES_$_.472
+_OBJC_SELECTOR_REFERENCES_.474
+_OBJC_SELECTOR_REFERENCES_.476
+_OBJC_SELECTOR_REFERENCES_.478
+_OBJC_SELECTOR_REFERENCES_.480
+_OBJC_SELECTOR_REFERENCES_.482
+_OBJC_SELECTOR_REFERENCES_.484
+_OBJC_SELECTOR_REFERENCES_.486
+_OBJC_SELECTOR_REFERENCES_.488
+_OBJC_SELECTOR_REFERENCES_.490
+_OBJC_SELECTOR_REFERENCES_.492
+_OBJC_SELECTOR_REFERENCES_.494
+_OBJC_SELECTOR_REFERENCES_.496
+_OBJC_SELECTOR_REFERENCES_.498
+_OBJC_SELECTOR_REFERENCES_.500
+_OBJC_SELECTOR_REFERENCES_.502
+_OBJC_SELECTOR_REFERENCES_.504
+_OBJC_SELECTOR_REFERENCES_.506
+_OBJC_SELECTOR_REFERENCES_.508
+_OBJC_SELECTOR_REFERENCES_.510
+_OBJC_IVAR_$_TOCropViewController._customAspectRatio
+_OBJC_SELECTOR_REFERENCES_.512
+_OBJC_SELECTOR_REFERENCES_.514
+_OBJC_SELECTOR_REFERENCES_.516
+_OBJC_SELECTOR_REFERENCES_.518
+_OBJC_IVAR_$_TOCropViewController._delegate
+_OBJC_IVAR_$_TOCropViewController._showActivitySheetOnDone
+_OBJC_IVAR_$_TOCropViewController._customAspectRatioName
+_OBJC_IVAR_$_TOCropViewController._doneButtonTitle
+_OBJC_IVAR_$_TOCropViewController._cancelButtonTitle
+_OBJC_IVAR_$_TOCropViewController._showOnlyIcons
+_OBJC_IVAR_$_TOCropViewController._doneButtonColor
+_OBJC_IVAR_$_TOCropViewController._cancelButtonColor
+_OBJC_IVAR_$_TOCropViewController._showCancelConfirmationDialog
+_OBJC_IVAR_$_TOCropViewController._aspectRatioLockDimensionSwapEnabled
+_OBJC_IVAR_$_TOCropViewController._hidesNavigationBar
+_OBJC_IVAR_$_TOCropViewController._resetButtonHidden
+_OBJC_IVAR_$_TOCropViewController._activityItems
+_OBJC_IVAR_$_TOCropViewController._applicationActivities
+_OBJC_IVAR_$_TOCropViewController._excludedActivityTypes
+_OBJC_IVAR_$_TOCropViewController._allowedAspectRatios
+_OBJC_IVAR_$_TOCropViewController._onDidFinishCancelled
+_OBJC_IVAR_$_TOCropViewController._onDidCropImageToRect
+_OBJC_IVAR_$_TOCropViewController._onDidCropToRect
+_OBJC_IVAR_$_TOCropViewController._onDidCropToCircleImage
+_OBJC_IVAR_$_TOCropViewController._toolbarSnapshotView
+_OBJC_IVAR_$_TOCropViewController._prepareForTransitionHandler
+_OBJC_IVAR_$_TOCropViewController._inTransition
+_OBJC_IVAR_$_TOCropViewController._navigationBarHidden
+_OBJC_IVAR_$_TOCropViewController._toolbarHidden
+_OBJC_IVAR_$_TOCropViewController._firstTime
+__OBJC_$_PROTOCOL_REFS_UIActionSheetDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIActionSheetDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIActionSheetDelegate
+__OBJC_PROTOCOL_$_UIActionSheetDelegate
+__OBJC_LABEL_PROTOCOL_$_UIActionSheetDelegate
+__OBJC_$_PROTOCOL_REFS_UIViewControllerTransitioningDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIViewControllerTransitioningDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIViewControllerTransitioningDelegate
+__OBJC_PROTOCOL_$_UIViewControllerTransitioningDelegate
+__OBJC_LABEL_PROTOCOL_$_UIViewControllerTransitioningDelegate
+__OBJC_$_PROTOCOL_REFS_TOCropViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_TOCropViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_TOCropViewDelegate
+__OBJC_PROTOCOL_$_TOCropViewDelegate
+__OBJC_LABEL_PROTOCOL_$_TOCropViewDelegate
+__OBJC_CLASS_PROTOCOLS_$_TOCropViewController
+__OBJC_METACLASS_RO_$_TOCropViewController
+__OBJC_$_INSTANCE_METHODS_TOCropViewController
+__OBJC_$_INSTANCE_VARIABLES_TOCropViewController
+__OBJC_$_PROP_LIST_TOCropViewController
+__OBJC_CLASS_RO_$_TOCropViewController
+_OBJC_CLASSLIST_REFERENCES_$_.787
+_OBJC_SELECTOR_REFERENCES_.788
+_OBJC_SELECTOR_REFERENCES_.790
+_OBJC_SELECTOR_REFERENCES_.794
+_OBJC_SELECTOR_REFERENCES_.796
+_OBJC_CLASSLIST_REFERENCES_$_.797
+_OBJC_CLASSLIST_REFERENCES_$_.800
+_OBJC_SELECTOR_REFERENCES_.804
+_OBJC_SELECTOR_REFERENCES_.806
+_OBJC_CLASSLIST_REFERENCES_$_.807
+_OBJC_SELECTOR_REFERENCES_.809
+_OBJC_SELECTOR_REFERENCES_.811
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Objective-C/TOCropViewController/TOCropViewController.m
+Objective-C/TOCropViewController/TOCropViewController.m
+Objective-C/TOCropViewController/TOCropViewController.h
+UI_USER_INTERFACE_IDIOM
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+__40-[TOCropViewController doneButtonTapped]_block_invoke.443
+__40-[TOCropViewController doneButtonTapped]_block_invoke.442
+__copy_helper_block_e8_32s40w
+__40-[TOCropViewController doneButtonTapped]_block_invoke
+__42-[TOCropViewController cancelButtonTapped]_block_invoke
+__66-[TOCropViewController animationControllerForDismissedController:]_block_invoke
+__104-[TOCropViewController animationControllerForPresentedController:presentingController:sourceController:]_block_invoke
+__113-[TOCropViewController dismissAnimatedFromParentViewController:withCroppedImage:toView:toFrame:setup:completion:]_block_invoke
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32b40w
+__129-[TOCropViewController presentAnimatedFromParentViewController:fromImage:fromView:fromFrame:angle:toImageFrame:setup:completion:]_block_invoke
+__45-[TOCropViewController showAspectRatioDialog]_block_invoke
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__75-[TOCropViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke.220
+__75-[TOCropViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke
+__76-[TOCropViewController _willAnimateRotationToInterfaceOrientation:duration:]_block_invoke
+UIInterfaceOrientationIsPortrait
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h
+UIInterfaceOrientationIsLandscape
+__45-[TOCropViewController viewDidLayoutSubviews]_block_invoke
+__42-[TOCropViewController viewWillDisappear:]_block_invoke
+__38-[TOCropViewController viewDidAppear:]_block_invoke
+__35-[TOCropViewController viewDidLoad]_block_invoke_5
+__35-[TOCropViewController viewDidLoad]_block_invoke_4
+__35-[TOCropViewController viewDidLoad]_block_invoke_3
+__35-[TOCropViewController viewDidLoad]_block_invoke_2
+__35-[TOCropViewController viewDidLoad]_block_invoke.49
+__35-[TOCropViewController viewDidLoad]_block_invoke
+_$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyF
+_$s18CropViewControllerAAC8delegateAA0abC8Delegate_pSgvM.resume.0
+_$s18CropViewControllerAACAA0abC8Delegate_pSgIetMAgYl_TC
+_$s18CropViewControllerAAC5titleSSSgvgTo
+_$s18CropViewControllerAAC5titleSSSgvsTo
+_$s18CropViewControllerAAC23showActivitySheetOnDoneSbvM.resume.0
+_$s18CropViewControllerAACSbIetMAgYl_TC
+_$s18CropViewControllerAAC05imageA5FrameSo6CGRectVvM.resume.0
+_$s18CropViewControllerAACSo6CGRectVIetMAgYl_TC
+_$s18CropViewControllerAAC5angleSivM.resume.0
+_$s18CropViewControllerAACSiIetMAgYl_TC
+_$s18CropViewControllerAAC17aspectRatioPresetSo06TOCropbc6AspecteF0VvM.resume.0
+_$s18CropViewControllerAACSo06TOCropbC17AspectRatioPresetVIetMAgYl_TC
+_$s18CropViewControllerAAC17customAspectRatioSo6CGSizeVvM.resume.0
+_$s18CropViewControllerAACSo6CGSizeVIetMAgYl_TC
+_$s18CropViewControllerAAC22aspectRatioLockEnabledSbvM.resume.0
+_$s18CropViewControllerAAC35aspectRatioLockDimensionSwapEnabledSbvM.resume.0
+_$s18CropViewControllerAAC23resetAspectRatioEnabledSbvM.resume.0
+_$s18CropViewControllerAAC5angleSivsTm
+_$s18CropViewControllerAAC15toolbarPositionSo06TOCropbc7ToolbarE0VvM.resume.0
+_$s18CropViewControllerAAC5angleSivM.resume.0Tm
+_$s18CropViewControllerAACSo06TOCropbC15ToolbarPositionVIetMAgYl_TC
+_$s18CropViewControllerAAC27rotateClockwiseButtonHiddenSbvM.resume.0
+_$s18CropViewControllerAAC19rotateButtonsHiddenSbvM.resume.0
+_$s18CropViewControllerAAC17resetButtonHiddenSbvM.resume.0
+_$s18CropViewControllerAAC29aspectRatioPickerButtonHiddenSbvM.resume.0
+_$s18CropViewControllerAAC16doneButtonHiddenSbvM.resume.0
+_$s18CropViewControllerAAC18cancelButtonHiddenSbvM.resume.0
+_$s18CropViewControllerAAC13activityItemsSayypGSgvM.resume.0
+_$s18CropViewControllerAACSayypGSgIetMAgYl_TC
+_$sSo10UIActivityCMa
+_$s18CropViewControllerAAC21applicationActivitiesSaySo10UIActivityCGSgvM.resume.0
+_$s18CropViewControllerAACSaySo10UIActivityCGSgIetMAgYl_TC
+_$sSo14UIActivityTypeaMa
+_$s18CropViewControllerAAC21excludedActivityTypesSaySo14UIActivityTypeaGSgvM.resume.0
+_$s18CropViewControllerAACSaySo14UIActivityTypeaGSgIetMAgYl_TC
+_$s18CropViewControllerAAC19allowedAspectRatiosSaySo06TOCropbcE11RatioPresetVGSgvM.resume.0
+_$sSbIegy_SbIeyBy_TR
+_$s18CropViewControllerAAC20onDidFinishCancelledySbcSgvM.resume.0
+_$sSo6CGRectVSiIegyy_ABSiIeyByy_TR
+_$s18CropViewControllerAAC05onDidA11ImageToRectySo6CGRectV_SitcSgvM.resume.0
+_$sSo7UIImageCSo6CGRectVSiIeggyy_AbDSiIeyByyy_TR
+_$s18CropViewControllerAAC05onDidA6ToRectySo7UIImageC_So6CGRectVSitcSgvM.resume.0
+_$s18CropViewControllerAAC05onDidA13ToCircleImageySo7UIImageC_So6CGRectVSitcSgvM.resume.0
+_$s18CropViewControllerAAC5imageSo7UIImageCvgTm
+_$s18CropViewControllerAAC18hidesNavigationBarSbvM.resume.0
+_$s18CropViewControllerAAC15doneButtonTitleSSSgvM.resume.0
+_$s18CropViewControllerAAC5titleSSSgvsTm
+_$s18CropViewControllerAAC5titleSSSgvgTm
+_$s18CropViewControllerAAC17cancelButtonTitleSSSgvM.resume.0
+_$s18CropViewControllerAAC15doneButtonTitleSSSgvM.resume.0Tm
+_$s18CropViewControllerAAC23showActivitySheetOnDoneSbvsTm
+_$s18CropViewControllerAAC23showActivitySheetOnDoneSbvgTm
+_$s18CropViewControllerAAC13showOnlyIconsSbvM.resume.0
+_$s18CropViewControllerAAC23showActivitySheetOnDoneSbvM.resume.0Tm
+_$s18CropViewControllerAAC15doneButtonColorSo7UIColorCSgvM.resume.0
+_$s18CropViewControllerAAC15doneButtonColorSo7UIColorCSgvsTm
+_$s18CropViewControllerAAC10titleLabelSo7UILabelCSgvgTm
+_$s18CropViewControllerAAC17cancelButtonColorSo7UIColorCSgvM.resume.0
+_$s18CropViewControllerAAC15doneButtonColorSo7UIColorCSgvM.resume.0Tm
+_$s18CropViewControllerAAC22childForStatusBarStyleSo06UIViewC0CSgvgTo
+_$s18CropViewControllerAAC22prefersStatusBarHiddenSbvgTo
+_$s18CropViewControllerAAC23preferredStatusBarStyleSo08UIStatusfG0VvgTo
+_$s18CropViewControllerAAC5angleSivgTm
+_$s18CropViewControllerAAC43preferredScreenEdgesDeferringSystemGesturesSo10UIRectEdgeVvgTo
+_$s18CropViewControllerAAC05setUpaC033_F779C67FDFC44B82515F130A378C3224LLyyF
+_$s18CropViewControllerAAC5coderABSgSo7NSCoderC_tcfcTo
+_$s18CropViewControllerAAC14viewWillAppearyySbFTo
+_$s18CropViewControllerAAC21viewDidLayoutSubviewsyyFTo
+_$s18CropViewControllerAAC013commitCurrentA0yyFTm
+_$sIeg_IeyB_TR
+_$s18CropViewControllerAAC19presentAnimatedFrom_04fromB00G5Frame5setup10completionySo06UIViewC0C_So0K0CSgSo6CGRectVyycSgAOtFTm
+_$s18CropViewControllerAAC7nibName6bundleABSSSg_So8NSBundleCSgtcfcTo
+_$s18CropViewControllerAACfETo
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCsACP09_bridgeToC1C01_C5CTypeQzyFTW
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCsACP016_forceBridgeFromC1C_6resulty01_C5CTypeQz_xSgztFZTW
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCsACP024_conditionallyBridgeFromC1C_6resultSb01_C5CTypeQz_xSgztFZTW
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCsACP026_unconditionallyBridgeFromC1Cyx01_C5CTypeQzSgFZTW
+_$sSo14UIActivityTypeaSYSCSY8rawValuexSg03RawD0Qz_tcfCTW
+_$sSo14UIActivityTypeaSYSCSY8rawValue03RawD0QzvgTW
+_$sSo14UIActivityTypeas35_HasCustomAnyHashableRepresentationSCsACP03_todeF0s0eF0VSgyFTW
+_$sSo14UIActivityTypeaSHSCSH9hashValueSivgTW
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCsACP09_bridgeToC1C01_C5CTypeQzyFTWTm
+_$sSo14UIActivityTypeaSHSCSH4hash4intoys6HasherVz_tFTW
+_$sSo14UIActivityTypeaSHSCSH13_rawHashValue4seedS2i_tFTW
+_$sSo14UIActivityTypeaSQSCSQ2eeoiySbx_xtFZTW
+_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSo8NSNumberC_Tg5
+_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo8NSNumberC_Tg5
+_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo8NSNumberC_Tg5
+_$s18CropViewControllerAAC19allowedAspectRatiosSaySo06TOCropbcE11RatioPresetVGSgvsTf4gn_n
+_$sSo8NSNumberCMa
+_$sSo10UIActivityCMaTm
+_$s18CropViewControllerAACSaySo06TOCropbC17AspectRatioPresetVGSgIetMAgYl_TC
+_$s18CropViewControllerAAC20onDidFinishCancelledySbcSgvsTf4gn_n
+_$sSbIegy_SgWOe
+_$sSbIeyBy_SbIegy_TRTA
+_$s18CropViewControllerAACSbIegy_SgIetMAgYl_TC
+_$s18CropViewControllerAAC05onDidA11ImageToRectySo6CGRectV_SitcSgvsTf4gn_n
+_$sSo6CGRectVSiIeyByy_ABSiIegyy_TRTA
+_$s18CropViewControllerAACSo6CGRectVSiIegyy_SgIetMAgYl_TC
+_$s18CropViewControllerAAC05onDidA6ToRectySo7UIImageC_So6CGRectVSitcSgvsTf4gn_n
+_$sSo7UIImageCSo6CGRectVSiIeyByyy_AbDSiIeggyy_TRTA
+_$s18CropViewControllerAACSo7UIImageCSo6CGRectVSiIeggyy_SgIetMAgYl_TC
+_$s18CropViewControllerAAC05onDidA13ToCircleImageySo7UIImageC_So6CGRectVSitcSgvsTf4gn_n
+_$s18CropViewControllerAAC20onDidFinishCancelledySbcSgvsTf4gn_nTm
+_$s18CropViewControllerAACSSSgIetMAgYl_TC
+_$s18CropViewControllerAACSo7UIColorCSgIetMAgYl_TC
+_block_copy_helper
+_block_destroy_helper
+__swift_FORCE_LOAD_$_swiftCompatibility50
+__swift_FORCE_LOAD_$_swiftCompatibility51
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements
+_$sSo6CGRectVwCP
+___swift_noop_void_return
+___swift_memcpy32_8
+_$sSo6CGRectVwet
+_$sSo6CGRectVwst
+_$sSo6CGRectVMa
+_$sSo14UIActivityTypeas20_SwiftNewtypeWrapperSCSYWb
+_$sSo14UIActivityTypeaABSYSCWl
+_$sSo14UIActivityTypeas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentationPWb
+_$sSo14UIActivityTypeaABs35_HasCustomAnyHashableRepresentationSCWl
+_$sSo14UIActivityTypeaABSYSCWlTm
+_$sSo14UIActivityTypeaSHSCSQWb
+_$sSo14UIActivityTypeaABSQSCWl
+_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZSo14UIActivityTypea_Tgq5Tf4nnd_n
+_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZSo14UIActivityTypea_Tgq5Tf4nnd_n
+_$sSo14UIActivityTypeaABSHSCWl
+_$sSo14UIActivityTypeaABs20_SwiftNewtypeWrapperSCWl
+_$s18CropViewController0abC8Delegate_pSgXwWOh
+___swift_instantiateConcreteTypeFromMangledName
+_$sSo37TOCropViewControllerAspectRatioPresetVMa
+_$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySbcfU2_TA
+_$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo7UIImageC_So6CGRectVSitcfU1_TA
+_$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo7UIImageC_So6CGRectVSitcfU0_TA
+_$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo7UIImageC_So6CGRectVSitcfU1_TATm
+_$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo6CGRectV_SitcfU_TA
+___swift_memcpy16_8
+_$sSo6CGSizeVwet
+_$sSo6CGSizeVwst
+_$sSo6CGSizeVMa
+_$sSo7CGPointVMa
+_$sSo14UIActivityTypeaMaTm
+_$sSo7UIImageCSo6CGRectVSiIeyByyy_AbDSiIeggyy_TRTA.18
+_$sSo7UIImageCSo6CGRectVSiIeyByyy_AbDSiIeggyy_TRTA.22
+_$sSo7UIImageCSo6CGRectVSiIeyByyy_AbDSiIeggyy_TRTA.26
+_block_copy_helper.27
+_block_copy_helper.30
+_block_copy_helper.33
+_block_copy_helper.36
+_block_copy_helper.39
+_block_copy_helper.42
+_block_copy_helper.45
+_block_copy_helper.49
+_block_copy_helper.52
+_block_copy_helper.55
+_block_copy_helper.58
+_block_copy_helper.67
+_block_copy_helper.74
+_block_copy_helper.81
+_block_copy_helper.88
+_$s18CropViewControllerAAC23childForStatusBarHiddenSo06UIViewC0CSgvgTo
+_$sSo7CGPointVwst
+_block_destroy_helper.28
+_block_destroy_helper.31
+_block_destroy_helper.34
+_block_destroy_helper.37
+_block_destroy_helper.40
+_block_destroy_helper.43
+_block_destroy_helper.46
+_block_destroy_helper.50
+_block_destroy_helper.53
+_block_destroy_helper.56
+_block_destroy_helper.59
+_block_destroy_helper.68
+_block_destroy_helper.75
+_block_destroy_helper.82
+_block_destroy_helper.89
+_$sSbIeyBy_SbIegy_TRTA.4
+_$sSo6CGRectVSiIeyByy_ABSiIegyy_TRTA.11
+_$sSo7CGPointVwet
+_$s18CropViewControllerAAC02toabC0So06TOCropbC0CSgvpWvd
+_$sSo10UIActivityCML
+_$sSo8NSNumberCML
+_symbolic SbIeyBy_
+_symbolic _____SiIeyByy_ So6CGRectV
+_symbolic So7UIImageC_____SiIeyByyy_ So6CGRectV
+_block_descriptor
+_block_descriptor.29
+_block_descriptor.32
+_block_descriptor.35
+_block_descriptor.38
+_block_descriptor.41
+_block_descriptor.44
+_block_descriptor.47
+_symbolic $s18CropViewController0abC8DelegateP
+_$s18CropViewController0abC8Delegate_pMF
+__PROTOCOL__TtP18CropViewController26CropViewControllerDelegate_
+l_OBJC_LABEL_PROTOCOL_$__TtP18CropViewController26CropViewControllerDelegate_
+l_OBJC_PROTOCOL_REFERENCE_$__TtP18CropViewController26CropViewControllerDelegate_
+__PROTOCOL_TOCropViewControllerDelegate
+l_OBJC_LABEL_PROTOCOL_$_TOCropViewControllerDelegate
+l_OBJC_PROTOCOL_REFERENCE_$_TOCropViewControllerDelegate
+__PROTOCOLS__TtC18CropViewController18CropViewController
+__METACLASS_DATA__TtC18CropViewController18CropViewController
+__INSTANCE_METHODS__TtC18CropViewController18CropViewController
+__PROTOCOLS__TtC18CropViewController18CropViewController.48
+__IVARS__TtC18CropViewController18CropViewController
+__PROPERTIES__TtC18CropViewController18CropViewController
+__DATA__TtC18CropViewController18CropViewController
+_$s18CropViewControllerMXM
+_symbolic So16UIViewControllerC
+_$s18CropViewControllerAACMf
+_symbolic _____ 18CropViewControllerAAC
+_symbolic 18CropViewController0abC8Delegate_pSgXw
+_symbolic So20TOCropViewControllerCSg
+_$s18CropViewControllerAACMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_CropViewController
+__swift_FORCE_LOAD_$_swiftDarwin_$_CropViewController
+__swift_FORCE_LOAD_$_swiftFoundation_$_CropViewController
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_CropViewController
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_CropViewController
+__swift_FORCE_LOAD_$_swiftDispatch_$_CropViewController
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_CropViewController
+__swift_FORCE_LOAD_$_swiftCoreImage_$_CropViewController
+__swift_FORCE_LOAD_$_swiftMetal_$_CropViewController
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_CropViewController
+__swift_FORCE_LOAD_$_swiftCompatibility50_$_CropViewController
+__swift_FORCE_LOAD_$_swiftCompatibility51_$_CropViewController
+__swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements_$_CropViewController
+_$sSo6CGRectVWV
+_$sSoMXM
+_$sSo6CGRectVMn
+_$sSo6CGRectVMf
+_$sSo6CGRectVML
+_$sSo14UIActivityTypeaMn
+_$sSo14UIActivityTypeaMf
+_$sSo14UIActivityTypeaML
+_symbolic _____ So14UIActivityTypea
+_$sSo14UIActivityTypeaMB
+_symbolic So8NSStringC
+_$sSo14UIActivityTypeaMF
+_symbolic _____ So6CGRectV
+_$sSo6CGRectVMB
+_symbolic _____ So7CGPointV
+_symbolic _____ So6CGSizeV
+_$sSo6CGRectVMF
+_$s5UIKitMXM
+_$sSo14UIActivityTypeas35_HasCustomAnyHashableRepresentationSCMcMK
+_$sSo14UIActivityTypeas35_HasCustomAnyHashableRepresentationSCMc
+_symbolic SS
+_symbolic $sSY
+_$sSo14UIActivityTypeaSYSCMA
+_$sSo14UIActivityTypeaSYSCMcMK
+_$sSo14UIActivityTypeaSYSCMc
+_$sSo14UIActivityTypeaABSYSCWL
+_associated conformance So14UIActivityTypeas20_SwiftNewtypeWrapperSCSY
+_$sSo14UIActivityTypeaABs35_HasCustomAnyHashableRepresentationSCWL
+_associated conformance So14UIActivityTypeas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentation
+_$sSo14UIActivityTypeas20_SwiftNewtypeWrapperSCMcMK
+_$sSo14UIActivityTypeas20_SwiftNewtypeWrapperSCMc
+_$sSo14UIActivityTypeaSQSCMcMK
+_$sSo14UIActivityTypeaSQSCMc
+_$sSo14UIActivityTypeaABSQSCWL
+_associated conformance So14UIActivityTypeaSHSCSQ
+_$sSo14UIActivityTypeaSHSCMcMK
+_$sSo14UIActivityTypeaSHSCMc
+_symbolic $ss21_ObjectiveCBridgeableP
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCMA
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCMcMK
+_$sSo14UIActivityTypeas21_ObjectiveCBridgeableSCMc
+_$sSo14UIActivityTypeaABSHSCWL
+_$sSo14UIActivityTypeaABs20_SwiftNewtypeWrapperSCWL
+__PROTOCOL_UIViewControllerTransitioningDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIViewControllerTransitioningDelegate
+l_OBJC_PROTOCOL_REFERENCE_$_UIViewControllerTransitioningDelegate
+_block_descriptor.51
+_block_descriptor.54
+_block_descriptor.57
+_block_descriptor.60
+_symbolic _____y_____G s23_ContiguousArrayStorageC So37TOCropViewControllerAspectRatioPresetV
+_$ss23_ContiguousArrayStorageCySo37TOCropViewControllerAspectRatioPresetVGMD
+_symbolic _____ySo8NSNumberCG s23_ContiguousArrayStorageC
+_$ss23_ContiguousArrayStorageCySo8NSNumberCGMD
+_symbolic _____SgXw 18CropViewControllerAAC
+_symbolic _____SgXwz_Xx 18CropViewControllerAAC
+_symbolic 18CropViewController0abC8Delegate_p
+_block_descriptor.69
+_block_descriptor.76
+_block_descriptor.83
+_block_descriptor.90
+_$sSo37TOCropViewControllerAspectRatioPresetVMn
+_$sSo37TOCropViewControllerAspectRatioPresetVMf
+_$sSo37TOCropViewControllerAspectRatioPresetVML
+_$sSo6CGSizeVWV
+_$sSo6CGSizeVMn
+_$sSo6CGSizeVMf
+_$sSo6CGSizeVML
+_$sSo7CGPointVWV
+_$sSo7CGPointVMn
+_$sSo7CGPointVMf
+_$sSo7CGPointVML
+_$sSo7CGPointVMB
+_symbolic _____ 12CoreGraphics7CGFloatV
+_$sSo7CGPointVMF
+_$sSo6CGSizeVMB
+_$sSo6CGSizeVMF
+_symbolic _____ So37TOCropViewControllerAspectRatioPresetV
+_$sSo37TOCropViewControllerAspectRatioPresetVMB
+___swift_reflection_version
+__PROTOCOL_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_REFERENCE_$_NSObject
+__PROTOCOL_PROTOCOLS__TtP18CropViewController26CropViewControllerDelegate_
+__PROTOCOL_INSTANCE_METHODS_OPT__TtP18CropViewController26CropViewControllerDelegate_
+__PROTOCOL_METHOD_TYPES__TtP18CropViewController26CropViewControllerDelegate_
+__PROTOCOL_PROTOCOLS_TOCropViewControllerDelegate
+__PROTOCOL_INSTANCE_METHODS_OPT_TOCropViewControllerDelegate
+__PROTOCOL_METHOD_TYPES_TOCropViewControllerDelegate
+__PROTOCOL_PROTOCOLS_UIViewControllerTransitioningDelegate
+__PROTOCOL_INSTANCE_METHODS_OPT_UIViewControllerTransitioningDelegate
+__PROTOCOL_METHOD_TYPES_UIViewControllerTransitioningDelegate
+__PROTOCOL_INSTANCE_METHODS_NSObject
+__PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__PROTOCOL_PROPERTIES_NSObject
+__PROTOCOL_METHOD_TYPES_NSObject
+_objc_classes
+Apple clang version 12.0.5 (clang-1205.0.19.55)
+-private-discriminator _F779C67FDFC44B82515F130A378C3224
+<swift-imported-modules>
+Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+/Users/hans/Documents/dev/titanium-image-crop/ios/Carthage/Checkouts/TOCropViewController/Swift/CropViewController/CropViewController.swift
+$sSo14UIActivityTypeaMa
+<compiler-generated>
+$sSo6CGSizeVwst
+$sSo6CGSizeVwet
+__swift_memcpy16_8
+$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo6CGRectV_SitcfU_TA
+$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo6CGRectV_SitcfU_
+$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo7UIImageC_So6CGRectVSitcfU1_TA
+$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySo7UIImageC_So6CGRectVSitcfU1_
+$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySbcfU2_TA
+$s18CropViewControllerAAC21setUpDelegateHandlers33_F779C67FDFC44B82515F130A378C3224LLyyFySbcfU2_
+objectdestroy.65
+objectdestroy.62
+__swift_instantiateConcreteTypeFromMangledName
+$s18CropViewController0abC8Delegate_pSgXwWOh
+_conditionallyBridgeFromObjectiveC
+$sSq7flatMapyqd__SgABxKXEKlFSS_So14UIActivityTypeaTgq5
+$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZAjEXEfU_So14UIActivityTypea_TGq5
+$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZAjEXEfU_So14UIActivityTypea_Tgq5
+init
+$sSSs21_ObjectiveCBridgeable10FoundationsAAP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTW
+_forceBridgeFromObjectiveC
+$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZAjEXEfU_So14UIActivityTypea_TGq5
+$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZAjEXEfU_So14UIActivityTypea_Tgq5
+$sSSs21_ObjectiveCBridgeable10FoundationsAAP016_forceBridgeFromA1C_6resulty01_A5CTypeQz_xSgztFZTW
+$sSo14UIActivityTypeaSHSCSQWb
+$sSo14UIActivityTypeaABSYSCWl
+$sSo14UIActivityTypeas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentationPWb
+$sSo14UIActivityTypeas20_SwiftNewtypeWrapperSCSYWb
+$sSo6CGRectVwst
+$sSo6CGRectVwet
+__swift_memcpy32_8
+__swift_noop_void_return
+$sSo6CGRectVwCP
+block_destroy_helper
+block_copy_helper
+$s18CropViewControllerAACMa
+onDidFinishCancelled.set
+Swift runtime failure: Unexpectedly found nil while implicitly unwrapping an Optional value
+$sSo7UIImageCSo6CGRectVSiIeyByyy_AbDSiIeggyy_TRTA
+$sSo7UIImageCSo6CGRectVSiIeyByyy_AbDSiIeggyy_TR
+$sSo6CGRectVSiIeyByy_ABSiIegyy_TRTA
+$sSo6CGRectVSiIeyByy_ABSiIegyy_TR
+$sSbIeyBy_SbIegy_TRTA
+$sSbIeyBy_SbIegy_TR
+objectdestroy
+$sSo10UIActivityCMa
+allowedAspectRatios.set
+map
+$sSaySayxGqd__c7ElementQyd__RszSTRd__lufCSo8NSNumberC_s15ContiguousArrayVyAEGTg5
+$ss12_ArrayBufferV7_buffer19shiftedToStartIndexAByxGs011_ContiguousaB0VyxG_SitcfCSo8NSNumberC_Tg5
+$ss15ContiguousArrayV6appendyyxnFSo8NSNumberC_Tg5
+$ss15ContiguousArrayV37_appendElementAssumeUniqueAndCapacity_03newD0ySi_xntFSo8NSNumberC_Tg5
+$sSp10initialize2toyx_tFSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV26mutableFirstElementAddressSpyxGvgSo8NSNumberC_Tg5
+$ss15ContiguousArrayV36_reserveCapacityAssumingUniqueBuffer8oldCountySi_tFSo8NSNumberC_Tg5
+$ss15ContiguousArrayV034_makeUniqueAndReserveCapacityIfNotD0yyFSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV16beginCOWMutationSbyFSo8NSNumberC_Tg5
+$sSo37TOCropViewControllerAspectRatioPresetVSo8NSNumberCs5Error_pIgyozo_AbDsAE_pIegnrzo_TR
+$s18CropViewControllerAAC19allowedAspectRatiosSaySo06TOCropbcE11RatioPresetVGSgvsSo8NSNumberCAEXEfU_
+$sSayxGSlsSly7ElementQz5IndexQzcirTWSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSayxSicirSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSayxSicigSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss15ContiguousArrayV15reserveCapacityyySiFSo8NSNumberC_Tg5
+$ss15ContiguousArrayV12_endMutationyyFSo8NSNumberC_Tg5
+$ss15ContiguousArrayV20_reserveCapacityImpl07minimumD013growForAppendySi_SbtFSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV5countSivgSo8NSNumberC_Tg5
+$sSayxGSlsSl5countSivgTWSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa5countSivgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa9_getCountSiyFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV14immutableCountSivgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo8NSNumberC_Tg5
+Swift runtime failure: Index out of range
+Swift runtime failure: precondition failure
+$ss12_ArrayBufferV7_natives011_ContiguousaB0VyxGvgSo8NSNumberC_Tg5
+$ss12_ArrayBufferV10_nonNatives06_CocoaA7WrapperVvgSo8NSNumberC_Tg5
+$ss12_ArrayBufferV9_isNativeSbvgSo8NSNumberC_Tg5
+$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+Swift runtime failure: arithmetic overflow
+$ss12_ArrayBufferV7_buffer19shiftedToStartIndexAByxGs011_ContiguousaB0VyxG_SitcfCSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV13_copyContents8subRange12initializingSpyxGSnySiG_AFtFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV13_copyContents8subRange12initializingSpyxGSnySiG_AFtFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSp10initialize4from5countySPyxG_SitFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSp14moveInitialize4from5countySpyxG_SitFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV26mutableFirstElementAddressSpyxGvgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+_swift_stdlib_malloc_size
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/lib/swift/shims/LibcShims.h
+$ss22_ContiguousArrayBufferVAByxGycfCSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV5countSivgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV8capacitySivgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV8capacitySivgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV13_copyContents8subRange12initializingSpyxGSnySiG_AFtFSo8NSNumberC_Tg5
+$sSp10initialize4from5countySPyxG_SitFSo8NSNumberC_Tg5
+$sSp14moveInitialize4from5countySpyxG_SitFSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferVAByxGycfCSo8NSNumberC_Tg5
+$ss22_ContiguousArrayBufferV8capacitySivgSo8NSNumberC_Tg5
+$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSo8NSNumberC_Tg5
+==
+$sSSSQsSQ2eeoiySbx_xtFZTW
+$sSS2eeoiySbSS_SStFZ
+$ss14_stringCompare__9expectingSbs11_StringGutsV_ADs01_D16ComparisonResultOtF
+rawValue.get
+_rawHashValue
+$sSSSHsSH13_rawHashValue4seedS2i_tFTW
+$sSHsE13_rawHashValue4seedS2i_tFSS_Tgq5
+hash
+$sSSSHsSH4hash4intoys6HasherVz_tFTW
+_bridgeToObjectiveC
+$sSSs21_ObjectiveCBridgeable10FoundationsAAP09_bridgeToA1C01_A5CTypeQzyFTW
+_toCustomAnyHashable
+_unconditionallyBridgeFromObjectiveC
+$sSSs21_ObjectiveCBridgeable10FoundationsAAP026_unconditionallyBridgeFromA1Cyx01_A5CTypeQzSgFZTW
+$s18CropViewControllerAACfETo
+deinit
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU0_
+$ss25_unimplementedInitializer9className04initD04file4line6columns5NeverOs12StaticStringV_A2JS2utFySRys5UInt8VGXEfU0_yAMXEfU_
+dismissAnimatedFrom
+presentAnimatedFrom
+$sIeg_IeyB_TR
+setAspectRatioPreset
+commitCurrentCrop
+viewDidLayoutSubviews
+viewWillAppear
+setUpCropController
+Swift runtime failure: Unexpectedly found nil while unwrapping an Optional value
+preferredScreenEdgesDeferringSystemGestures.get
+angle.get
+preferredStatusBarStyle.get
+prefersStatusBarHidden.get
+childForStatusBarStyle.get
+doneButtonColor.modify
+doneButtonColor.set
+doneButtonColor.get
+cancelButtonColor.modify
+cancelButtonColor.get
+titleLabel.get
+showActivitySheetOnDone.modify
+showActivitySheetOnDone.set
+showActivitySheetOnDone.get
+showOnlyIcons.modify
+showOnlyIcons.get
+doneButtonTitle.modify
+doneButtonTitle.set
+doneButtonTitle.get
+cancelButtonTitle.modify
+cancelButtonTitle.get
+title.get
+title.set
+hidesNavigationBar.modify
+hidesNavigationBar.get
+image.get
+onDidCropToCircleImage.modify
+onDidCropToCircleImage.set
+onDidCropToCircleImage.get
+onDidCropToRect.modify
+onDidCropToRect.set
+onDidCropToRect.get
+$sSo7UIImageCSo6CGRectVSiIeggyy_AbDSiIeyByyy_TR
+onDidCropImageToRect.modify
+onDidCropImageToRect.set
+onDidCropImageToRect.get
+$sSo6CGRectVSiIegyy_ABSiIeyByy_TR
+onDidFinishCancelled.modify
+onDidFinishCancelled.get
+$sSbIegy_SbIeyBy_TR
+allowedAspectRatios.modify
+allowedAspectRatios.get
+compactMap
+$ss16IndexingIteratorVyxGStsSt4next7ElementQzSgyFTWSaySo8NSNumberCG_Tg5
+$sSayxGSlsSl9formIndex5aftery0B0Qzz_tFTWSo8NSNumberC_Tg5
+$sSa9formIndex5afterySiz_tFSo8NSNumberC_Tg5
+Swift runtime failure: loop induction variable overflowed
+$sSiSQsSQ2eeoiySbx_xtFZTW
+$sSa6appendyyxnFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa37_appendElementAssumeUniqueAndCapacity_03newB0ySi_xntFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSp10initialize2toyx_tFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV26mutableFirstElementAddressSpyxGvgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa36_reserveCapacityAssumingUniqueBuffer8oldCountySi_tFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV15mutableCapacitySivgSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSa034_makeUniqueAndReserveCapacityIfNotB0yyFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$ss12_ArrayBufferV16beginCOWMutationSbyFSo37TOCropViewControllerAspectRatioPresetV_Tg5
+$sSo8NSNumberCSo37TOCropViewControllerAspectRatioPresetVSgs5Error_pIggdzo_AbEsAF_pIegnrzo_TR
+$s18CropViewControllerAAC19allowedAspectRatiosSaySo06TOCropbcE11RatioPresetVGSgvgAESgSo8NSNumberCXEfU_
+$sSayxGSlsSly7ElementQz5IndexQzcirTWSo8NSNumberC_Tg5
+$sSayxSicirSo8NSNumberC_Tg5
+$sSayxSicigSo8NSNumberC_Tg5
+$sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFSo8NSNumberC_Tg5
+$sSa29_hoistableIsNativeTypeCheckedSbyFSo8NSNumberC_Tg5
+$ss12_ArrayBufferV32arrayPropertyIsNativeTypeCheckedSbvgSo8NSNumberC_Tg5
+$ss12_ArrayBufferV20_isNativeTypeCheckedSbvgSo8NSNumberC_Tg5
+$sSayxGSlsSl8endIndex0B0QzvgTWSo8NSNumberC_Tg5
+$sSa8endIndexSivgSo8NSNumberC_Tg5
+$sSa9_getCountSiyFSo8NSNumberC_Tg5
+$ss12_ArrayBufferV14immutableCountSivgSo8NSNumberC_Tg5
+excludedActivityTypes.modify
+excludedActivityTypes.set
+excludedActivityTypes.get
+applicationActivities.modify
+applicationActivities.set
+applicationActivities.get
+activityItems.modify
+activityItems.set
+activityItems.get
+cancelButtonHidden.modify
+cancelButtonHidden.get
+doneButtonHidden.modify
+doneButtonHidden.get
+aspectRatioPickerButtonHidden.modify
+aspectRatioPickerButtonHidden.get
+resetButtonHidden.modify
+resetButtonHidden.get
+rotateButtonsHidden.modify
+rotateButtonsHidden.get
+rotateClockwiseButtonHidden.modify
+rotateClockwiseButtonHidden.get
+angle.modify
+angle.set
+toolbarPosition.modify
+toolbarPosition.get
+resetAspectRatioEnabled.modify
+resetAspectRatioEnabled.get
+aspectRatioLockDimensionSwapEnabled.modify
+aspectRatioLockDimensionSwapEnabled.get
+aspectRatioLockEnabled.modify
+aspectRatioLockEnabled.get
+customAspectRatio.modify
+customAspectRatio.set
+customAspectRatio.get
+aspectRatioPreset.modify
+aspectRatioPreset.get
+imageCropFrame.modify
+imageCropFrame.set
+imageCropFrame.get
+delegate.modify
+delegate.didset
+delegate.set
+delegate.get
+setUpDelegateHandlers
+$s18CropViewControllerAAC8delegateAA0abC8Delegate_pSgvpfi
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/Overrides.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/swift-macosx-x86_64
+_swift_getFunctionReplacement50
+_swift_getOrigOfReplaceable50
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/CompatibilityDynamicReplacements -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/CompatibilityDynamicReplacements -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibilityDynamicReplacements -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -MF stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o.d -o stdlib/toolchain/CompatibilityDynamicReplacements/CMakeFiles/swiftCompatibilityDynamicReplacements-iphoneos-arm64.dir/DynamicReplaceable.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+swift_getOrigOfReplaceable50
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/CompatibilityDynamicReplacements/DynamicReplaceable.cpp
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs
+swift_getFunctionReplacement50
+__ZL24registerAddImageCallbackPv
+__ZL16addImageCallbackPK11mach_headerl
+__ZZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_EE5token
+__ZL27ProtocolConformancesSection
+_DummyTargetContextDescriptor
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/ProtocolConformance.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/ProtocolConformance.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/ProtocolConformance.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp
+addImageCallback
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50/ProtocolConformance.cpp
+_getTypeDescriptorLocation
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/ABI/Metadata.h
+get
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/Basic/RelativePointer.h
+getTypeKind
+getTypeReferenceKind
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/ABI/MetadataValues.h
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<swift::TargetProtocolConformanceDescriptor<swift::InProcess>, false, int>, int>
+registerAddImageCallback
+swift50override_conformsToProtocol
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/dispatch/once.h
+/AppleInternal/BuildRoot
+__ZL29installGetClassHook_untrustedv
+__ZL35getObjCClassByMangledName_untrustedPKcPP10objc_class
+__ZL15OldGetClassHook
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility50 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -MF stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o.d -o stdlib/toolchain/Compatibility50/CMakeFiles/swiftCompatibility50-iphoneos-arm64.dir/Overrides.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50/Overrides.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+getObjCClassByMangledName_untrusted
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility50/Overrides.cpp
+installGetClassHook_untrusted
+__ZN5swift17getRootSuperclassEv
+__ZN5swift4LazyIN12_GLOBAL__N_116ConformanceStateEE19defaultInitCallbackEPv
+__ZN12_GLOBAL__N_124searchInConformanceCacheEPKN5swift14TargetMetadataINS0_9InProcessEEEPKNS0_24TargetProtocolDescriptorIS2_EE
+__ZN12_GLOBAL__N_116ConformanceState12cacheFailureEPKvPKN5swift24TargetProtocolDescriptorINS3_9InProcessEEEm
+__ZZZL20getObjCClassMetadataPKN5swift19TargetClassMetadataINS_9InProcessEEEENK3$_1clEvENUlPvE_8__invokeES6_
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvENUlPvE_8__invokeES1_
+__ZZZL24getTypeContextDescriptorPKN5swift14TargetMetadataINS_9InProcessEEEENK3$_2clEvENUlPvE_8__invokeES6_
+__ZL17swift_unreachablePKc
+__ZZZL26getExistentialTypeMetadataN5swift23ProtocolClassConstraintEPKNS_14TargetMetadataINS_9InProcessEEEmPKNS_27TargetProtocolDescriptorRefIS2_EEENK3$_3clEvENUlPvE_8__invokeESB_
+__ZN12_GLOBAL__N_122override_equalContextsEPKN5swift23TargetContextDescriptorINS0_9InProcessEEES5_
+__ZN12_GLOBAL__N_116addImageCallbackEPK11mach_header
+__ZN12_GLOBAL__N_116addImageCallbackEPK11mach_headerl
+__ZN12_GLOBAL__N_112ConformancesE
+__ZZZL20getObjCClassMetadataPKN5swift19TargetClassMetadataINS_9InProcessEEEENK3$_1clEvE7TheLazy
+__ZZZN5swift17getRootSuperclassEvENK3$_0clEvE7TheLazy
+__ZZZL24getTypeContextDescriptorPKN5swift14TargetMetadataINS_9InProcessEEEENK3$_2clEvE7TheLazy
+__ZZZL26getExistentialTypeMetadataN5swift23ProtocolClassConstraintEPKNS_14TargetMetadataINS_9InProcessEEEmPKNS_27TargetProtocolDescriptorRefIS2_EEENK3$_3clEvE7TheLazy
+/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --driver-mode=g++ -D CMARK_STATIC_DEFINE -D GTEST_HAS_RTTI=0 -D SWIFT_INLINE_NAMESPACE=__runtime -D __STDC_CONSTANT_MACROS -D __STDC_FORMAT_MACROS -D __STDC_LIMIT_MACROS -I stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51 -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include -I include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/llvm/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/llvm-macosx-x86_64/tools/clang/include -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/cmark/src -I /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Binaries/swiftlang/install/TempContent/Objects/BNI_assert_lightweight/cmark-macosx-x86_64/src -Wno-unknown-warning-option -Werror=unguarded-availability-new -fno-stack-protector -fPIC -fvisibility-inlines-hidden -Werror=date-time -Werror=unguarded-availability-new -Wall -Wextra -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wmissing-field-initializers -Wimplicit-fallthrough -Wcovered-switch-default -Wno-class-memaccess -Wno-noexcept-type -Wnon-virtual-dtor -Wdelete-non-virtual-dtor -Wstring-conversion -fdiagnostics-color -Werror=switch -Wdocumentation -Wimplicit-fallthrough -Wunreachable-code -Woverloaded-virtual -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -O2 -D NDEBUG -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -fno-exceptions -funwind-tables -fno-rtti -Werror=gnu -Wall -Wglobal-constructors -Wexit-time-destructors -D SWIFT_COMPATIBILITY_LIBRARY=1 -D SWIFT_TARGET_LIBRARY_NAME=swiftCompatibility51 -fembed-bitcode=all --target=arm64-apple-ios7.0 -isysroot /AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk -arch arm64 -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/Library/Frameworks -F/AppleInternal/BuildRoot/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/../../../Developer/AppleInternal/Library/Frameworks -miphoneos-version-min=7.0 -O2 -g -D NDEBUG -D SWIFT_LIBRARY_EVOLUTION=0 -D SWIFT_RUNTIME_OS_VERSIONING -std=c++14 -MD -MT stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o -MF stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o.d -o stdlib/toolchain/Compatibility51/CMakeFiles/swiftCompatibility51-iphoneos-arm64.dir/ProtocolConformance.cpp.o -c /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Xclang -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -Xclang -fno-odr-hash-protocols -mlinker-version=650.9 -stdlib=libc++
+/AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/ProtocolConformance.cpp
+push_back
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/Concurrent.h
+~scope_exit
+Sources/swiftlang/swiftlang-1205.0.26.9/llvm-project/llvm/include/llvm/ADT/ScopeExit.h
+operator()
+deallocateFreeList
+clear_and_shrink_to_fit
+deallocate
+operator unsigned long
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/atomic
+load
+__cxx_atomic_load<unsigned long>
+end
+begin
+store
+__cxx_atomic_store<unsigned long>
+data
+__cxx_atomic_store<swift::overrides::ConcurrentReadableArray<(anonymous namespace)::ConformanceSection>::Storage *>
+copy<(anonymous namespace)::ConformanceSection *, (anonymous namespace)::ConformanceSection *>
+Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/algorithm
+__copy<(anonymous namespace)::ConformanceSection, (anonymous namespace)::ConformanceSection>
+allocate
+max<unsigned long>
+max<unsigned long, std::__1::__less<unsigned long> >
+__cxx_atomic_load<swift::overrides::ConcurrentReadableArray<(anonymous namespace)::ConformanceSection>::Storage *>
+override_equalContexts
+operator==
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include/llvm/ADT/StringRef.h
+equals
+compareMemory
+getTypeContextIdentity
+empty
+StringRef
+strLen
+operator[]
+hasImportInfo
+getFlag<2>
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/Basic/FlagSet.h
+applyRelativeOffset<const swift::RelativeDirectPointerImpl<const char, false, int>, int>
+applyRelativeOffset<const swift::RelativeIndirectablePointer<const swift::TargetContextDescriptor<swift::InProcess>, true, int, swift::TargetContextDescriptor<swift::InProcess> *>, int>
+isUnique
+__invoke
+swift_unreachable
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/Basic/Unreachable.h
+cacheFailure
+updateFailureGeneration
+getOrInsert<(anonymous namespace)::ConformanceCacheKey, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *, unsigned long &>
+__cxx_atomic_store<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+atomic_compare_exchange_strong_explicit<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+compare_exchange_strong
+__cxx_atomic_compare_exchange_strong<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+Node<(anonymous namespace)::ConformanceCacheKey &, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *, unsigned long &>
+ConformanceCacheEntry
+atomic
+__atomic_base
+__cxx_atomic_impl
+__cxx_atomic_base_impl
+destroyNode
+compareWithKey
+__cxx_atomic_load<swift::overrides::ConcurrentMapBase<(anonymous namespace)::ConformanceCacheEntry, false>::Node *>
+ConformanceCacheKey
+searchInConformanceCache
+cacheMiss
+cachedFailure
+_swiftoverride_class_getSuperclass
+getObjCClassMetadata
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/Basic/Lazy.h
+dyn_cast<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/include/llvm/Support/Casting.h
+isa<swift::TargetForeignClassMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+doit
+classof
+getKind
+getEnumeratedMetadataKind
+getSuperclass
+classHasSuperclass
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/stdlib/toolchain/Compatibility51/../../public/runtime/Private.h
+getClassObject
+cachedSuccess
+getDescription
+__cxx_atomic_load<const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *>
+isSuccessful
+findCached
+find<(anonymous namespace)::ConformanceCacheKey>
+getConformanceCacheTypeKey
+getTypeContextDescriptor
+~Snapshot
+decrementReaders
+fetch_sub
+__cxx_atomic_fetch_sub<unsigned long>
+snapshot
+incrementReaders
+fetch_add
+__cxx_atomic_fetch_add<unsigned long>
+getFailureGeneration
+defaultInitCallback
+ConformanceState
+initializeProtocolConformanceLookup
+ConcurrentReadableArray
+MiniVector
+swift51override_conformsToSwiftProtocol
+cacheSuccess
+makeSuccessful
+__cxx_atomic_store<const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *>
+getOrInsert<(anonymous namespace)::ConformanceCacheKey, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *&, int>
+Node<(anonymous namespace)::ConformanceCacheKey &, const swift::TargetProtocolConformanceDescriptor<swift::InProcess> *&, int>
+getConformingTypeAsMetadata
+getMatchingType
+matches
+getContextDescriptor
+getSwiftProtocol
+isObjC
+getSuperclassConstraint
+getTrailingObjects<const swift::TargetMetadata<swift::InProcess> *>
+Sources/swiftlang/swiftlang-1205.0.26.9/swift/include/swift/ABI/TrailingObjects.h
+getTrailingObjectsImpl
+hasSuperclassConstraint
+getProtocols
+getTrailingObjects<swift::TargetProtocolDescriptorRef<swift::InProcess> >
+callNumTrailingObjects<const swift::TargetMetadata<swift::InProcess> *>
+numTrailingObjects
+dyn_cast<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> >
+isa<swift::TargetExistentialTypeMetadata<swift::InProcess>, const swift::TargetMetadata<swift::InProcess> *>
+ConformanceCandidate
+override_getCanonicalTypeMetadata
+getExistentialTypeMetadata
+getClassConstraint
+getField<0, 1, swift::ProtocolClassConstraint>
+getProtocolContextDescriptorFlags
+getKindSpecificFlags
+forSwift
+dyn_cast<swift::TargetProtocolDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+isa<swift::TargetProtocolDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> *>
+operator bool
+getAccessFunction
+isGeneric
+dyn_cast<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> >
+isa<swift::TargetTypeContextDescriptor<swift::InProcess>, const swift::TargetContextDescriptor<swift::InProcess> *>
+getTypeDescriptor
+operator swift::TargetContextDescriptor<swift::InProcess> **
+operator swift::TargetContextDescriptor<swift::InProcess> *
+getDirectObjCClassName
+getIndirectObjCClass
+getProtocol
+operator const swift::TargetProtocolDescriptor<swift::InProcess> *
+applyRelativeOffset<const swift::RelativeIndirectablePointer<const swift::TargetProtocolDescriptor<swift::InProcess>, true, int, swift::TargetProtocolDescriptor<swift::InProcess> *>, int>
+Snapshot
+getRootSuperclass
