@@ -23,7 +23,11 @@ class TiImagecropModule: TiModule {
   @objc public let ASPECT_RATIO_5x4: Int = CropViewControllerAspectRatioPreset.preset5x4.rawValue
   @objc public let ASPECT_RATIO_7x5: Int = CropViewControllerAspectRatioPreset.preset7x5.rawValue
   @objc public let ASPECT_RATIO_16x9: Int = CropViewControllerAspectRatioPreset.preset16x9.rawValue
-  
+    
+  @objc public let CropViewCroppingStyleDefault: Int = CropViewCroppingStyle.default.rawValue
+
+  @objc public let CropViewCroppingStyleCircular: Int = CropViewCroppingStyle.circular.rawValue
+    
   // MARK: Private config
   
   private var cropViewController: CropViewController?
@@ -47,17 +51,30 @@ class TiImagecropModule: TiModule {
     }
 
     // List proxy properties
+    let croppingStyle = params["croppingStyle"]
+    
     let aspectRatio = params["aspectRatio"]
     let doneButtonTitle = params["doneButtonTitle"] ?? NSLocalizedString("done", comment: "done")
     let cancelButtonTitle = params["cancelButtonTitle"] ?? NSLocalizedString("cancel", comment: "done")
 
     guard cropViewController == nil else { return }
 
-    cropViewController = CropViewController(image: TiUtils.image(image, proxy: self))
+    
+    if croppingStyle as! String == "circular"{
+        cropViewController = CropViewController(croppingStyle:CropViewCroppingStyle.circular, image: TiUtils.image(image, proxy: self))
+      }
+    else {
+        cropViewController = CropViewController(croppingStyle:CropViewCroppingStyle.default, image: TiUtils.image(image, proxy: self))
+
+    }
+    
     
     guard let cropViewController = cropViewController else { return }
     
     // Apply general config
+      
+
+      
     cropViewController.delegate = self
     cropViewController.doneButtonTitle = doneButtonTitle as? String
     cropViewController.cancelButtonTitle = cancelButtonTitle as? String
@@ -104,6 +121,23 @@ extension TiImagecropModule : CropViewControllerDelegate {
     })
   }
 
+    func cropViewController(_ cropViewController: CropViewController, didCropToCircularImage image: UIImage, withRect cropRect: CGRect, angle: Int) {
+      guard let blob = TiBlob(image: image) else {
+        return
+      }
+
+      self.fireEvent("done", with: ["image": blob, "cancel": false])
+
+      self.cropViewController?.dismiss(animated: true, completion: {
+        self.fireEvent("close")
+
+        self.cropViewController?.delegate = nil
+        self.cropViewController = nil
+      })
+    }
+
+    
+    
   func cropViewController(_ cropViewController: CropViewController, didFinishCancelled cancelled: Bool) {
     self.fireEvent("done", with: ["cancel": true])
 
