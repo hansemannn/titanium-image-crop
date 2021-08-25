@@ -15,6 +15,8 @@ An easy to crop images to different scales. Based on the awesome [TOCropViewCont
 #### Parameters
 
 - `image` (String, Ti.Blob, Ti.File)
+- `croppingStyle` 'circular' or 'default' (String) in not set 'default' is selected
+
 - `aspectRatio` (either a dictionary {x, y}  of the ratio or one of the constants * below)
 
 ## Constants
