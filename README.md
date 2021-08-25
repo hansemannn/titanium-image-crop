@@ -3,6 +3,7 @@
 An easy to crop images to different scales. Based on the awesome [TOCropViewController](https://github.com/TimOliver/TOCropViewController) library. Currently iOS only (!)
 
 <img src="./example.png" height="600" alt="Example Screenshot" />
+<img src="./IMG_0827.PNG" height="600" alt="Example Screenshot rounded cropping" />
 
 ## Requirements
 
