@@ -1,0 +1,11 @@
+framework module CropViewController {
+  umbrella header "CropViewController.h"
+
+  export *
+  module * { export * }
+}
+
+module CropViewController.Swift {
+    header "CropViewController-Swift.h"
+    requires objc
+}
