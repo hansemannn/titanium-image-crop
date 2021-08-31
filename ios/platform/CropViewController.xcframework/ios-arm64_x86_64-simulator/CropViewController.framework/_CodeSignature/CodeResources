@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/CropViewController-Swift.h</key>
 		<data>
-		7GFGE6YFsDI2DGYaTDKrSEUv+xI=
+		4dU9r8uFbAIn+oJuZhKzj+tpwZI=
 		</data>
 		<key>Headers/CropViewController.h</key>
 		<data>
@@ -18,75 +18,75 @@
 		</data>
 		<key>Headers/TOCropToolbar.h</key>
 		<data>
-		c0+cR4KR3ZsSRGpHVTNWXtzLSK0=
+		q1wAxevKD6FemV6WDjTS13nWpjA=
 		</data>
 		<key>Headers/TOCropView.h</key>
 		<data>
-		q85brlRLxVhTh6xuPIvIwUMjmI8=
+		DqxL/nshSDnN1OtpykiZ3tA+SMs=
 		</data>
 		<key>Headers/TOCropViewConstants.h</key>
 		<data>
-		VqmZvXhWEUfY7NJllcUKYjqfk1Y=
+		/xAAyu6Ns5ZXJTqb3TOKu5scqVY=
 		</data>
 		<key>Headers/TOCropViewController.h</key>
 		<data>
-		eD7pDwVQQT31iEF+yoi8UmijBPQ=
+		EMAg4E39/rZHM3j052BoMnVI9Bo=
 		</data>
 		<key>Headers/UIImage+CropRotate.h</key>
 		<data>
-		pieLVjYgjpj+5bi1tl7KTDHX+CY=
+		LGALFFd//+0ICx8UByi6BRxOXR4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lOa4fQ0N19vjHO2hcN2XV2tABBY=
+		TsT+rwAV24kr3wtJb0fdQc5T8o4=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		cJk4dtkRBbKWMk+nXyXYVceyCl0=
+		2/h1b7i5IDYNVxnTHM/XfWmamh8=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		cJk4dtkRBbKWMk+nXyXYVceyCl0=
+		2/h1b7i5IDYNVxnTHM/XfWmamh8=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		x8roLBy9HuIo6xoRShaERy6yQGw=
+		KF8gAAAO5+mu8685V+DUnv39518=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		x8roLBy9HuIo6xoRShaERy6yQGw=
+		KF8gAAAO5+mu8685V+DUnv39518=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		FMUM9rHfA09l3msXFUG3KwEXKBE=
+		WIzcQLKB42BVecWo6TFkpj+z0aI=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8bBq7TwXoq+Mw8Yxz0TD4XRW37g=
+		a8SdBCN15fmESatnlX/3pPJJqWo=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		FMUM9rHfA09l3msXFUG3KwEXKBE=
+		WIzcQLKB42BVecWo6TFkpj+z0aI=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8bBq7TwXoq+Mw8Yxz0TD4XRW37g=
+		a8SdBCN15fmESatnlX/3pPJJqWo=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		oYqyLG5+nO3WHL+lNu34n/m7Cms=
+		mhpj6LgGErpt9wGTZ94r+qHnfMg=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3LjGch1WDZ5Qmgfjhv0CSrRgs60=
+		GFpf7WpIyWRrsL1Yj8Z5HNl/GqU=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		oYqyLG5+nO3WHL+lNu34n/m7Cms=
+		mhpj6LgGErpt9wGTZ94r+qHnfMg=
 		</data>
 		<key>Modules/CropViewController.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		3LjGch1WDZ5Qmgfjhv0CSrRgs60=
+		GFpf7WpIyWRrsL1Yj8Z5HNl/GqU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -358,7 +358,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f4weLSgPcwbqc1c7qY5S3cYFyffoF8jL4hlNt8ZT7+U=
+			ehapTKsh8vWhIdtmNzE4pFzxnZwYlb79MKq8twhfNCk=
 			</data>
 		</dict>
 		<key>Headers/CropViewController.h</key>
@@ -372,119 +372,119 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			20n3naNps/oFDLs7d7YDE6MXdl++hZOedKNUBaTREtI=
+			4KN39KSYjNjLuVAmlbsfx7yYHSEe7mAoCyqD5dy5av0=
 			</data>
 		</dict>
 		<key>Headers/TOCropView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zLrS9gj/wShDzUnWU6q3BO8JyRDLxPGOiLW2ih2h09Y=
+			ETrJ+drFH3bNb3u3yyT8pqvagQxT/mEu5/5niCvI3zA=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewConstants.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zAJpItrsf7GZ00Cq7rDpk4ZZnoiU94zb1KlczDAM++A=
+			NpAFSd89WesQ6mSMEClHeSN1yyiim54wp2Yw6rZL5CU=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1fqtO1rzBhixuNXGPuqMtUPa6tQeO96pZsszBzmwx30=
+			jiAo5DEvO6xkkIdbmLAmI9SPfANokstp7ZPsJ6l8M9Q=
 			</data>
 		</dict>
 		<key>Headers/UIImage+CropRotate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2g6U69VQdJvYJD5WufdtV64981ZD0/RCox0USppOjdY=
+			GV6HumU24ulunT4KI1FEwRwKHy8is3vx5uPhwzp9wB0=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6f9e5UI7j1hDlG8Tggo+ADWgmaMQ6FTTEEKa00EkxU=
+			lJ9nR29/XHtYj42Pj0YR9/NkS7AHPNeZOz3cBwJfkS4=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6f9e5UI7j1hDlG8Tggo+ADWgmaMQ6FTTEEKa00EkxU=
+			lJ9nR29/XHtYj42Pj0YR9/NkS7AHPNeZOz3cBwJfkS4=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2Y5Ox8DN280Urt1L1yD+gXy9fBZAsJpY/XMPfjgDGs=
+			4X3qEhq9XHKEHS00MgvenMPhd+nMm7jg2qhphtYHbz8=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2Y5Ox8DN280Urt1L1yD+gXy9fBZAsJpY/XMPfjgDGs=
+			4X3qEhq9XHKEHS00MgvenMPhd+nMm7jg2qhphtYHbz8=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mHbaWFlvlkWDtStFHUjPE5Iav5pXfT6XxllFHO7DOA=
+			eHItrq3IuemthsW+cEgCX8xR30b/4O3yq/FQZ005HpQ=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6aUf2mxhet9VNcgme1NyWRkS9vrwaTxiCohlqkoX5Q=
+			ZyUEzd6JtrI6geuYy/E7VpnkfCCc8zS8BTCvADGeAIM=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mHbaWFlvlkWDtStFHUjPE5Iav5pXfT6XxllFHO7DOA=
+			eHItrq3IuemthsW+cEgCX8xR30b/4O3yq/FQZ005HpQ=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6aUf2mxhet9VNcgme1NyWRkS9vrwaTxiCohlqkoX5Q=
+			ZyUEzd6JtrI6geuYy/E7VpnkfCCc8zS8BTCvADGeAIM=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/KF2ubLHKw6eyC/3rQJnOzfiteQ/D6mSeDbWBrKUdS4=
+			0GLPVDhdGB/TFYsa1jlJ1lLy5sPrCNDSdQ/N2SleTiI=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tyhZVYA+2UX3Cd3PfrMwc3vLvqaeXh0eHc6XX2M9R5s=
+			oNzGjS36C0E1pjhrG5FQ0E22FFMP6T7eluB25nunEhs=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/KF2ubLHKw6eyC/3rQJnOzfiteQ/D6mSeDbWBrKUdS4=
+			0GLPVDhdGB/TFYsa1jlJ1lLy5sPrCNDSdQ/N2SleTiI=
 			</data>
 		</dict>
 		<key>Modules/CropViewController.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tyhZVYA+2UX3Cd3PfrMwc3vLvqaeXh0eHc6XX2M9R5s=
+			oNzGjS36C0E1pjhrG5FQ0E22FFMP6T7eluB25nunEhs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

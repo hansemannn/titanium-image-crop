@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A98426F26C69E4600B22128 /* CropViewController.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A98426E26C69E4600B22128 /* CropViewController.xcframework */; };
+		2C8E825726DAAE3200B29769 /* CropViewController.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C8E825626DAAE3200B29769 /* CropViewController.xcframework */; };
 		3A98427126C69E9B00B22128 /* TitaniumKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A98427026C69E9B00B22128 /* TitaniumKit.xcframework */; };
 		DB34CDE0207B998A005F8E8C /* TiImagecropModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = DB34CDDE207B998A005F8E8C /* TiImagecropModuleAssets.m */; };
 		DB34CDE1207B998A005F8E8C /* TiImagecropModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = DB34CDDF207B998A005F8E8C /* TiImagecropModuleAssets.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3A98426E26C69E4600B22128 /* CropViewController.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = CropViewController.xcframework; path = platform/CropViewController.xcframework; sourceTree = "<group>"; };
+		2C8E825626DAAE3200B29769 /* CropViewController.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = CropViewController.xcframework; path = platform/CropViewController.xcframework; sourceTree = "<group>"; };
 		3A98427026C69E9B00B22128 /* TitaniumKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = TitaniumKit.xcframework; path = "$(TITANIUM_SDK)/iphone/Frameworks/TitaniumKit.xcframework"; sourceTree = "<group>"; };
 		DB34CDDE207B998A005F8E8C /* TiImagecropModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TiImagecropModuleAssets.m; path = Classes/TiImagecropModuleAssets.m; sourceTree = SOURCE_ROOT; };
 		DB34CDDF207B998A005F8E8C /* TiImagecropModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TiImagecropModuleAssets.h; path = Classes/TiImagecropModuleAssets.h; sourceTree = SOURCE_ROOT; };
@@ -37,10 +37,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C8E825726DAAE3200B29769 /* CropViewController.xcframework in Frameworks */,
 				DBB66221208481A800EAD6D9 /* TitaniumKit.framework in Frameworks */,
 				3A98427126C69E9B00B22128 /* TitaniumKit.xcframework in Frameworks */,
 				DB34CDE6207B9EBD005F8E8C /* Foundation.framework in Frameworks */,
-				3A98426F26C69E4600B22128 /* CropViewController.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,8 +79,8 @@
 		DB34CDE2207B9D6A005F8E8C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2C8E825626DAAE3200B29769 /* CropViewController.xcframework */,
 				3A98427026C69E9B00B22128 /* TitaniumKit.xcframework */,
-				3A98426E26C69E4600B22128 /* CropViewController.xcframework */,
 				DB34CDE5207B9EBD005F8E8C /* Foundation.framework */,
 			);
 			name = Frameworks;
@@ -274,12 +274,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "$(ARCHS_STANDARD)";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -335,11 +336,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VALID_ARCHS = "$(ARCHS_STANDARD)";
@@ -372,7 +374,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -390,9 +392,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.appcelerator.titanium-image-crop";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/Titanium";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Debug;
@@ -420,7 +424,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -435,8 +439,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.appcelerator.titanium-image-crop";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/Titanium";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				VALID_ARCHS = "$(ARCHS_STANDARD)";
 			};
 			name = Release;
