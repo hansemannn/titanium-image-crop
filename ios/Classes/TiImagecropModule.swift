@@ -9,24 +9,24 @@
 import UIKit
 import TitaniumKit
 
-import CropViewController
+import TOCropViewController
 
 @objc(TiImagecropModule)
 class TiImagecropModule: TiModule {
 
   // MARK: Public constants
   
-  @objc public let ASPECT_RATIO_SQUARE: Int = CropViewControllerAspectRatioPreset.presetSquare.rawValue
-  @objc public let ASPECT_RATIO_3x2: Int = CropViewControllerAspectRatioPreset.preset3x2.rawValue
-  @objc public let ASPECT_RATIO_5x3: Int = CropViewControllerAspectRatioPreset.preset5x3.rawValue
-  @objc public let ASPECT_RATIO_4x3: Int = CropViewControllerAspectRatioPreset.preset4x3.rawValue
-  @objc public let ASPECT_RATIO_5x4: Int = CropViewControllerAspectRatioPreset.preset5x4.rawValue
-  @objc public let ASPECT_RATIO_7x5: Int = CropViewControllerAspectRatioPreset.preset7x5.rawValue
-  @objc public let ASPECT_RATIO_16x9: Int = CropViewControllerAspectRatioPreset.preset16x9.rawValue
+  @objc public let ASPECT_RATIO_SQUARE: Int = TOCropViewControllerAspectRatioPreset.presetSquare.rawValue
+  @objc public let ASPECT_RATIO_3x2: Int = TOCropViewControllerAspectRatioPreset.preset3x2.rawValue
+  @objc public let ASPECT_RATIO_5x3: Int = TOCropViewControllerAspectRatioPreset.preset5x3.rawValue
+  @objc public let ASPECT_RATIO_4x3: Int = TOCropViewControllerAspectRatioPreset.preset4x3.rawValue
+  @objc public let ASPECT_RATIO_5x4: Int = TOCropViewControllerAspectRatioPreset.preset5x4.rawValue
+  @objc public let ASPECT_RATIO_7x5: Int = TOCropViewControllerAspectRatioPreset.preset7x5.rawValue
+  @objc public let ASPECT_RATIO_16x9: Int = TOCropViewControllerAspectRatioPreset.preset16x9.rawValue
     
-  @objc public let CropViewCroppingStyleDefault: Int = CropViewCroppingStyle.default.rawValue
+  @objc public let CropViewCroppingStyleDefault: Int = TOCropViewCroppingStyle.default.rawValue
 
-  @objc public let CropViewCroppingStyleCircular: Int = CropViewCroppingStyle.circular.rawValue
+  @objc public let CropViewCroppingStyleCircular: Int = TOCropViewCroppingStyle.circular.rawValue
     
   // MARK: Private config
 
@@ -80,7 +80,7 @@ class TiImagecropModule: TiModule {
           cropViewController.customAspectRatio = CGSize(width: x, height: y)
         }
       // Handle presets
-      } else if let aspectRatio = aspectRatio as? Int, let rawAspectRatio = CropViewControllerAspectRatioPreset(rawValue: aspectRatio) {
+      } else if let aspectRatio = aspectRatio as? Int, let rawAspectRatio = TOCropViewControllerAspectRatioPreset(rawValue: aspectRatio) {
         cropViewController.aspectRatioPreset = rawAspectRatio
       } else {
         debugPrint("[ERROR] No valid aspect ratio provided!")
@@ -97,9 +97,9 @@ class TiImagecropModule: TiModule {
 
 // MARK: CropViewControllerDelegate
 
-extension TiImagecropModule : CropViewControllerDelegate {
+extension TiImagecropModule : TOCropViewControllerDelegate {
 
-  func cropViewController(_ cropViewController: CropViewController, didCropToImage image: UIImage, withRect cropRect: CGRect, angle: Int) {
+    func cropViewController(_ cropViewController: TOCropViewController, didCropTo image: UIImage, with cropRect: CGRect, angle: Int) {
     guard let blob = TiBlob(image: image) else {
       return
     }
@@ -114,7 +114,7 @@ extension TiImagecropModule : CropViewControllerDelegate {
     })
   }
 
-    func cropViewController(_ cropViewController: CropViewController, didCropToCircularImage image: UIImage, withRect cropRect: CGRect, angle: Int) {
+    func cropViewController(_ cropViewController: TOCropViewController, didCropToCircularImage image: UIImage, with cropRect: CGRect, angle: Int) {
       guard let blob = TiBlob(image: image) else {
         return
       }
@@ -131,7 +131,7 @@ extension TiImagecropModule : CropViewControllerDelegate {
 
     
     
-  func cropViewController(_ cropViewController: CropViewController, didFinishCancelled cancelled: Bool) {
+  func cropViewController(_ cropViewController: TOCropViewController, didFinishCancelled cancelled: Bool) {
     self.fireEvent("done", with: ["cancel": true])
 
     self.cropViewController?.dismiss(animated: true, completion: {
