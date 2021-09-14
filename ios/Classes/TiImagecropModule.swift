@@ -29,13 +29,13 @@ class TiImagecropModule: TiModule {
   @objc public let CropViewCroppingStyleCircular: Int = TOCropViewCroppingStyle.circular.rawValue
     
   // MARK: Private config
-  
-  private var cropViewController: TOCropViewController?
-  
+
+  private var cropViewController: CropViewController?
+
   func moduleGUID() -> String {
     return "0b0ea922-0b5a-493e-826b-596a54904a8c"
   }
-  
+
   override func moduleId() -> String! {
     return "ti.imagecrop"
   }
@@ -51,28 +51,23 @@ class TiImagecropModule: TiModule {
     }
 
     // List proxy properties
-    let croppingStyle = params["croppingStyle"] ?? NSString("default")
+    let croppingStyle = params["croppingStyle"]
+
     let aspectRatio = params["aspectRatio"]
     let doneButtonTitle = params["doneButtonTitle"] ?? NSLocalizedString("done", comment: "done")
     let cancelButtonTitle = params["cancelButtonTitle"] ?? NSLocalizedString("cancel", comment: "done")
 
     guard cropViewController == nil else { return }
 
-    
-    if croppingStyle as! String == "circular"{
-        cropViewController = TOCropViewController(croppingStyle:TOCropViewCroppingStyle.circular, image: TiUtils.image(image, proxy: self))
-      }
-    else {
-        cropViewController = TOCropViewController(croppingStyle:TOCropViewCroppingStyle.default, image: TiUtils.image(image, proxy: self))
+    if croppingStyle as! String == "circular" {
+        cropViewController = CropViewController(croppingStyle:CropViewCroppingStyle.circular, image: TiUtils.image(image, proxy: self))
+    } else {
+      cropViewController = CropViewController(croppingStyle:CropViewCroppingStyle.default, image: TiUtils.image(image, proxy: self))
     }
-    
-    
-    guard let cropViewController = cropViewController else { return }
-    
-    // Apply general config
-      
 
-      
+    guard let cropViewController = cropViewController else { return }
+
+    // Apply general config
     cropViewController.delegate = self
     cropViewController.doneButtonTitle = doneButtonTitle as? String
     cropViewController.cancelButtonTitle = cancelButtonTitle as? String
@@ -93,7 +88,7 @@ class TiImagecropModule: TiModule {
     } else {
       cropViewController.aspectRatioPreset = .presetSquare
     }
-  
+
     // Request top-most VC
     guard let controller = TiApp.controller(), let topPresentedController = controller.topPresentedController() else { return }
     topPresentedController.present(cropViewController, animated: true, completion: nil)
