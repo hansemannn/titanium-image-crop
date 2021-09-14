@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C8E825726DAAE3200B29769 /* CropViewController.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C8E825626DAAE3200B29769 /* CropViewController.xcframework */; };
+		2C3AAA2F26F0C5CB000C4F9A /* TOCropViewController.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C3AAA2E26F0C5CB000C4F9A /* TOCropViewController.xcframework */; };
 		3A98427126C69E9B00B22128 /* TitaniumKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A98427026C69E9B00B22128 /* TitaniumKit.xcframework */; };
 		DB34CDE0207B998A005F8E8C /* TiImagecropModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = DB34CDDE207B998A005F8E8C /* TiImagecropModuleAssets.m */; };
 		DB34CDE1207B998A005F8E8C /* TiImagecropModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = DB34CDDF207B998A005F8E8C /* TiImagecropModuleAssets.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2C8E825626DAAE3200B29769 /* CropViewController.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = CropViewController.xcframework; path = platform/CropViewController.xcframework; sourceTree = "<group>"; };
+		2C3AAA2E26F0C5CB000C4F9A /* TOCropViewController.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = TOCropViewController.xcframework; path = platform/TOCropViewController.xcframework; sourceTree = "<group>"; };
 		3A98427026C69E9B00B22128 /* TitaniumKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = TitaniumKit.xcframework; path = "$(TITANIUM_SDK)/iphone/Frameworks/TitaniumKit.xcframework"; sourceTree = "<group>"; };
 		DB34CDDE207B998A005F8E8C /* TiImagecropModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TiImagecropModuleAssets.m; path = Classes/TiImagecropModuleAssets.m; sourceTree = SOURCE_ROOT; };
 		DB34CDDF207B998A005F8E8C /* TiImagecropModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TiImagecropModuleAssets.h; path = Classes/TiImagecropModuleAssets.h; sourceTree = SOURCE_ROOT; };
@@ -37,10 +37,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C8E825726DAAE3200B29769 /* CropViewController.xcframework in Frameworks */,
 				DBB66221208481A800EAD6D9 /* TitaniumKit.framework in Frameworks */,
 				3A98427126C69E9B00B22128 /* TitaniumKit.xcframework in Frameworks */,
 				DB34CDE6207B9EBD005F8E8C /* Foundation.framework in Frameworks */,
+				2C3AAA2F26F0C5CB000C4F9A /* TOCropViewController.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,7 +79,7 @@
 		DB34CDE2207B9D6A005F8E8C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2C8E825626DAAE3200B29769 /* CropViewController.xcframework */,
+				2C3AAA2E26F0C5CB000C4F9A /* TOCropViewController.xcframework */,
 				3A98427026C69E9B00B22128 /* TitaniumKit.xcframework */,
 				DB34CDE5207B9EBD005F8E8C /* Foundation.framework */,
 			);
