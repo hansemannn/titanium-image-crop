@@ -38,7 +38,7 @@ An easy to crop images to different scales. Based on the awesome [TOCropViewCont
 
 ## Notes
 
-- If opening the image crop dialog from a modal window, please set the `modalStyle: Ti.UI.iOS.MODAL_PRESENTATION_OVER_CURRENT_FULL_SCREEN` property (thanks to @designbymind!)
+- If opening the image crop dialog from a modal window, please set the `modalStyle: Ti.UI.iOS.MODAL_PRESENTATION_OVER_CURRENT_FULL_SCREEN` property (thanks to [designbymind](https://github.com/designbymind)!)
 
 ## Example
 
