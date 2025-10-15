@@ -1,7 +1,7 @@
 //
 //  TOCropView.h
 //
-//  Copyright 2015-2020 Timothy Oliver. All rights reserved.
+//  Copyright 2015-2025 Timothy Oliver. All rights reserved.
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to
@@ -21,7 +21,12 @@
 //  IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #import <UIKit/UIKit.h>
+
+#if !__has_include(<TOCropViewController/TOCropViewConstants.h>)
 #import "TOCropViewConstants.h"
+#else
+#import <TOCropViewController/TOCropViewConstants.h>
+#endif
 
 @class TOCropOverlayView;
 @class TOCropView;
@@ -46,6 +51,11 @@ NS_ASSUME_NONNULL_BEGIN
  The cropping style of the crop view (eg, rectangular or circular)
  */
 @property (nonatomic, assign, readonly) TOCropViewCroppingStyle croppingStyle;
+
+/**
+ A semi-transparent grey view, overlaid on top of the background image
+ */
+@property (nonatomic, strong, readonly) UIView *overlayView;
 
 /**
  A grid view overlaid on top of the foreground image view's container.
@@ -255,7 +265,7 @@ The minimum croping aspect ratio. If set, user is prevented from setting croppin
  
  @param animated Whether the transition is animated
  */
-- (void)rotateImageNinetyDegreesAnimated:(BOOL)animated;
+- (void)rotateImageNinetyDegreesAnimated:(BOOL)animated completion:(nullable void(^)(BOOL completed))completionHandler;
 
 /**
  Rotates the entire canvas to a 90-degree angle
@@ -263,7 +273,7 @@ The minimum croping aspect ratio. If set, user is prevented from setting croppin
  @param animated Whether the transition is animated
  @param clockwise Whether the rotation is clockwise. Passing 'NO' means counterclockwise
  */
-- (void)rotateImageNinetyDegreesAnimated:(BOOL)animated clockwise:(BOOL)clockwise;
+- (void)rotateImageNinetyDegreesAnimated:(BOOL)animated clockwise:(BOOL)clockwise completion:(nullable void(^)(BOOL completed))completionHandler;
 
 /**
  Animate the grid overlay graphic to be visible

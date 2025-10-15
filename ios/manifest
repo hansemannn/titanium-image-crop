@@ -2,13 +2,13 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 2.0.3
+version: 3.0.0
 apiversion: 2
 architectures: arm64 x86_64
 description: titanium-image-crop is a Swift based Titanium module.
 author: Hans Knöchel
 license: MIT
-mac:true 
+mac: false 
 copyright: Copyright (c) 2019-present by Hans Knöchel
 
 # these should not be edited
@@ -16,4 +16,4 @@ name: titanium-image-crop
 moduleid: ti.imagecrop
 guid: 0b0ea922-0b5a-493e-826b-596a54904a8c
 platform: iphone
-minsdk: 9.2.0
+minsdk: 12.0.0

@@ -10,27 +10,35 @@
 		</data>
 		<key>Headers/TOCropToolbar.h</key>
 		<data>
-		q1wAxevKD6FemV6WDjTS13nWpjA=
+		R/ZKdNLbO2yKZmFELh6bY74Tyx4=
 		</data>
 		<key>Headers/TOCropView.h</key>
 		<data>
-		DqxL/nshSDnN1OtpykiZ3tA+SMs=
+		9hVWrI1G87CldwGYNa6yeW0hVpM=
 		</data>
 		<key>Headers/TOCropViewConstants.h</key>
 		<data>
-		/xAAyu6Ns5ZXJTqb3TOKu5scqVY=
+		/Py2LG7es861QipvIrXsksaPXrk=
 		</data>
 		<key>Headers/TOCropViewController.h</key>
 		<data>
-		EMAg4E39/rZHM3j052BoMnVI9Bo=
+		el2Acg44GXF22f0V8WBc9shFihg=
+		</data>
+		<key>Headers/TOCropViewControllerAspectRatioPreset.h</key>
+		<data>
+		ThkyICNvxxIFWyWuReryEHDmuLk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oxUVP85llEuQTNGH3+9dcd1PGao=
+		1x8NdqhrjLfS6NHpnxaJwNDnggw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		L0+EAo9iAV10SZL17EGqsdoxLEU=
+		rz8mfNVC8sTYOKpgyKnfbVZqj/c=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		ucg9pita0v8d353x3NuGfxweQYU=
 		</data>
 		<key>ar.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
@@ -162,7 +170,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bLcr+kf8Gm9W99cQHXQWQ3kTXcU=
+			ASeyg80LG5Y739yX53u/NWKjzbA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -257,6 +265,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>uk.lproj/TOCropViewControllerLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yohjz6a124cpAybdts7Je+JFIas=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>vi.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -298,35 +315,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4KN39KSYjNjLuVAmlbsfx7yYHSEe7mAoCyqD5dy5av0=
+			D11i9Ez/ZZjFmp3CM+symPQ9P0038wrft9Mcn319wug=
 			</data>
 		</dict>
 		<key>Headers/TOCropView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ETrJ+drFH3bNb3u3yyT8pqvagQxT/mEu5/5niCvI3zA=
+			Qg37PyQxl5EEOVyJwERQkB480pw4vEmWNa5Jpez/s9o=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewConstants.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NpAFSd89WesQ6mSMEClHeSN1yyiim54wp2Yw6rZL5CU=
+			ILEynaB8hHMchrYVgn+uBuNocTWZEZDgUMSX/9z+w10=
 			</data>
 		</dict>
 		<key>Headers/TOCropViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jiAo5DEvO6xkkIdbmLAmI9SPfANokstp7ZPsJ6l8M9Q=
+			l0jPSzhCmd9RkR6zXBc3h2qeVSifjx2rkkmK+0QvxvI=
+			</data>
+		</dict>
+		<key>Headers/TOCropViewControllerAspectRatioPreset.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Pp9K9IxOpXeKg4JUmrEqq7nmBYJLxlctvHZJ/PlMkdo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TjL9mdWsBXHINvlsbZVPY9/FHnLSyXPUdSHU/z0dJSk=
+			OyJDZDrIM6PZ298ERiE8cVdf3GLbVPDDBIlYuou6vX0=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
 			</data>
 		</dict>
 		<key>ar.lproj/TOCropViewControllerLocalizable.strings</key>
@@ -459,7 +490,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZ8ksH6K7J+dMwGUvNNy8VDkw25DKCoPosRoTqeyNqk=
+			ikx8oiQMFi7v4XJpSXQQPPsF8AwMs/fr2rP6Fm3iqwM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -550,6 +581,15 @@
 			<key>hash2</key>
 			<data>
 			0nENczQs+4zgpi5iYRI+ME2wyng8p/HcGn8+rGgJNdQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>uk.lproj/TOCropViewControllerLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aQ4G/1IOSFyMTE2Fv1wqabBF6gapR7cv4cFbjKa0mwI=
 			</data>
 			<key>optional</key>
 			<true/>

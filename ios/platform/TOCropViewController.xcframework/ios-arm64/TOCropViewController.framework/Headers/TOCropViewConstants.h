@@ -1,7 +1,7 @@
 //
 //  TOCropViewConstants.h
 //
-//  Copyright 2015-2020 Timothy Oliver. All rights reserved.
+//  Copyright 2015-2025 Timothy Oliver. All rights reserved.
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to
@@ -28,22 +28,6 @@
 typedef NS_ENUM(NSInteger, TOCropViewCroppingStyle) {
     TOCropViewCroppingStyleDefault,     // The regular, rectangular crop box
     TOCropViewCroppingStyleCircular     // A fixed, circular crop box
-};
-
-/**
- Preset values of the most common aspect ratios that can be used to quickly configure
- the crop view controller.
- */
-typedef NS_ENUM(NSInteger, TOCropViewControllerAspectRatioPreset) {
-    TOCropViewControllerAspectRatioPresetOriginal,
-    TOCropViewControllerAspectRatioPresetSquare,
-    TOCropViewControllerAspectRatioPreset3x2,
-    TOCropViewControllerAspectRatioPreset5x3,
-    TOCropViewControllerAspectRatioPreset4x3,
-    TOCropViewControllerAspectRatioPreset5x4,
-    TOCropViewControllerAspectRatioPreset7x5,
-    TOCropViewControllerAspectRatioPreset16x9,
-    TOCropViewControllerAspectRatioPresetCustom
 };
 
 /**

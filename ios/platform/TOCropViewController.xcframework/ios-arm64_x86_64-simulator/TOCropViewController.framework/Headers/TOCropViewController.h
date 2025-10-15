@@ -1,7 +1,7 @@
 //
 //  TOCropViewController.h
 //
-//  Copyright 2015-2020 Timothy Oliver. All rights reserved.
+//  Copyright 2015-2025 Timothy Oliver. All rights reserved.
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to
@@ -22,9 +22,17 @@
 
 #import <UIKit/UIKit.h>
 
+#if !__has_include(<TOCropViewController/TOCropViewConstants.h>)
 #import "TOCropViewConstants.h"
+#import "TOCropViewControllerAspectRatioPreset.h"
 #import "TOCropView.h"
 #import "TOCropToolbar.h"
+#else
+#import <TOCropViewController/TOCropViewConstants.h>
+#import <TOCropViewController/TOCropViewControllerAspectRatioPreset.h>
+#import <TOCropViewController/TOCropView.h>
+#import <TOCropViewController/TOCropToolbar.h>
+#endif
 
 @class TOCropViewController;
 
@@ -144,19 +152,7 @@
 /**
  A choice from one of the pre-defined aspect ratio presets
  */
-@property (nonatomic, assign) TOCropViewControllerAspectRatioPreset aspectRatioPreset;
-
-/**
- A CGSize value representing a custom aspect ratio, not listed in the presets.
- E.g. A ratio of 4:3 would be represented as (CGSize){4.0f, 3.0f}
- */
-@property (nonatomic, assign) CGSize customAspectRatio;
-
-/**
- If this is set alongside `customAspectRatio`, the custom aspect ratio
- will be shown as a selectable choice in the list of aspect ratios. (Default is `nil`)
- */
-@property (nullable, nonatomic, copy) NSString *customAspectRatioName;
+@property (nonatomic, assign) CGSize aspectRatioPreset;
 
 /**
  Title label which can be used to show instruction on the top of the crop view controller
@@ -285,6 +281,14 @@
  */
 @property (nonatomic, assign) BOOL cancelButtonHidden;
 
+/**
+ When enabled, the toolbar is displayed in RTL layout.
+
+ Default is NO.
+ */
+@property (nonatomic, assign) BOOL reverseContentLayout
+;
+
 /** 
  If `showActivitySheetOnDone` is true, then these activity items will 
  be supplied to that UIActivityViewController in addition to the 
@@ -310,7 +314,7 @@
  An array of `TOCropViewControllerAspectRatioPreset` enum values denoting which
  aspect ratios the crop view controller may display (Default is nil. All are shown)
  */
-@property (nullable, nonatomic, strong) NSArray<NSNumber *> *allowedAspectRatios;
+@property (nullable, nonatomic, strong) NSArray<TOCropViewControllerAspectRatioPreset *> *allowedAspectRatios;
 
 /**
  When the user hits cancel, or completes a
@@ -388,7 +392,7 @@
  @param aspectRatioPreset The aspect ratio preset
  @param animated Whether the transition to the aspect ratio is animated
  */
-- (void)setAspectRatioPreset:(TOCropViewControllerAspectRatioPreset)aspectRatioPreset animated:(BOOL)animated NS_SWIFT_NAME(setAspectRatioPresent(_:animated:));
+- (void)setAspectRatioPreset:(CGSize)aspectRatioPreset animated:(BOOL)animated NS_SWIFT_NAME(setAspectRatioPreset(_:animated:));
 
 /**
  Play a custom animation of the target image zooming to its position in

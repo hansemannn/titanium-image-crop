@@ -7,7 +7,7 @@ An easy to crop images to different scales. Based on the awesome [TOCropViewCont
 
 ## Requirements
 
-- [x] Titanium SDK 9.2.0+ (this module  is 100 % Swift based)
+- [x] Titanium SDK 12.0.0+
 
 ## Methods
 
@@ -18,17 +18,8 @@ An easy to crop images to different scales. Based on the awesome [TOCropViewCont
 - `image` (String, Ti.Blob, Ti.File)
 - `croppingStyle` 'circular' or 'default' (String) in not set 'default' is selected
 
-- `aspectRatio` (either a dictionary {x, y}  of the ratio or one of the constants * below)
-
-## Constants
-
-- `ASPECT_RATIO_SQUARE`
-- `ASPECT_RATIO_3x2`
-- `ASPECT_RATIO_5x3`
-- `ASPECT_RATIO_4x3`
-- `ASPECT_RATIO_5x4`
-- `ASPECT_RATIO_7x5`
-- `ASPECT_RATIO_16x9`
+- `aspectRatio` A dictionary {x, y} to describe the aspect ratio. Note: Prior to v3.0.0,
+you could also apply a preset, but these have been removed in the native library.
 
 ## Events
 

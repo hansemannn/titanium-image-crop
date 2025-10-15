@@ -14,4 +14,4 @@ FOUNDATION_EXPORT double TiImagecropVersionNumber;
 //! Project version string for TiImagecrop.
 FOUNDATION_EXPORT const unsigned char TiImagecropVersionString[];
 
-#import "TiImagecropModuleAssets.h"
+#import <TiImagecrop/TiImagecropModuleAssets.h>

@@ -16,21 +16,13 @@ class TiImagecropModule: TiModule {
 
   // MARK: Public constants
   
-  @objc public let ASPECT_RATIO_SQUARE: Int = TOCropViewControllerAspectRatioPreset.presetSquare.rawValue
-  @objc public let ASPECT_RATIO_3x2: Int = TOCropViewControllerAspectRatioPreset.preset3x2.rawValue
-  @objc public let ASPECT_RATIO_5x3: Int = TOCropViewControllerAspectRatioPreset.preset5x3.rawValue
-  @objc public let ASPECT_RATIO_4x3: Int = TOCropViewControllerAspectRatioPreset.preset4x3.rawValue
-  @objc public let ASPECT_RATIO_5x4: Int = TOCropViewControllerAspectRatioPreset.preset5x4.rawValue
-  @objc public let ASPECT_RATIO_7x5: Int = TOCropViewControllerAspectRatioPreset.preset7x5.rawValue
-  @objc public let ASPECT_RATIO_16x9: Int = TOCropViewControllerAspectRatioPreset.preset16x9.rawValue
-    
   @objc public let CropViewCroppingStyleDefault: Int = TOCropViewCroppingStyle.default.rawValue
 
   @objc public let CropViewCroppingStyleCircular: Int = TOCropViewCroppingStyle.circular.rawValue
     
   // MARK: Private config
 
-  private var cropViewController: CropViewController?
+  private var cropViewController: TOCropViewController?
 
   func moduleGUID() -> String {
     return "0b0ea922-0b5a-493e-826b-596a54904a8c"
@@ -60,9 +52,9 @@ class TiImagecropModule: TiModule {
     guard cropViewController == nil else { return }
 
     if croppingStyle as! String == "circular" {
-        cropViewController = CropViewController(croppingStyle:CropViewCroppingStyle.circular, image: TiUtils.image(image, proxy: self))
+      cropViewController = TOCropViewController(croppingStyle: .circular, image: TiUtils.image(image, proxy: self))
     } else {
-      cropViewController = CropViewController(croppingStyle:CropViewCroppingStyle.default, image: TiUtils.image(image, proxy: self))
+      cropViewController = TOCropViewController(croppingStyle: .default, image: TiUtils.image(image, proxy: self))
     }
 
     guard let cropViewController = cropViewController else { return }
@@ -72,21 +64,15 @@ class TiImagecropModule: TiModule {
     cropViewController.doneButtonTitle = doneButtonTitle as? String
     cropViewController.cancelButtonTitle = cancelButtonTitle as? String
     
-    // Handle both raw aspect ratios and presets (square, 16/9)
+    // Handle aspect ratios
     if let aspectRatio = aspectRatio {
-      // Handle raw values
       if let aspectRatio = aspectRatio as? [String: Int] {
         if let x = aspectRatio["x"], let y = aspectRatio["y"] {
-          cropViewController.customAspectRatio = CGSize(width: x, height: y)
+          cropViewController.aspectRatioPreset = CGSize(width: x, height: y)
         }
-      // Handle presets
-      } else if let aspectRatio = aspectRatio as? Int, let rawAspectRatio = TOCropViewControllerAspectRatioPreset(rawValue: aspectRatio) {
-        cropViewController.aspectRatioPreset = rawAspectRatio
       } else {
         debugPrint("[ERROR] No valid aspect ratio provided!")
       }
-    } else {
-      cropViewController.aspectRatioPreset = .presetSquare
     }
 
     // Request top-most VC
