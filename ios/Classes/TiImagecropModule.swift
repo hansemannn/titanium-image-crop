@@ -2,8 +2,8 @@
 //  TiImagecropModule.swift
 //  titanium-image-crop
 //
-//  Created by Your Name
-//  Copyright (c) 2019 Your Company. All rights reserved.
+//  Created by Hans Knöchel
+//  Copyright (c) 2019-present Hans Knöchel. All rights reserved.
 //
 
 import UIKit
@@ -43,7 +43,7 @@ class TiImagecropModule: TiModule {
     }
 
     // List proxy properties
-    let croppingStyle = params["croppingStyle"]
+    let croppingStyle = params["croppingStyle"] as? String
 
     let aspectRatio = params["aspectRatio"]
     let doneButtonTitle = params["doneButtonTitle"] ?? NSLocalizedString("done", comment: "done")
@@ -51,7 +51,7 @@ class TiImagecropModule: TiModule {
 
     guard cropViewController == nil else { return }
 
-    if croppingStyle as! String == "circular" {
+    if croppingStyle == "circular" {
       cropViewController = TOCropViewController(croppingStyle: .circular, image: TiUtils.image(image, proxy: self))
     } else {
       cropViewController = TOCropViewController(croppingStyle: .default, image: TiUtils.image(image, proxy: self))
